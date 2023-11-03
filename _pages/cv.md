@@ -32,11 +32,11 @@ Work experience
 
 Publications
 ======
-Please refer to [this page](https://haichaoliu.github.io/publications/).
+Please refer to [this page](https://henryhcliu.github.io/publications/).
   
 Talks
 ======
-Please refer to [this page](https://haichaoliu.github.io/talks/).
+Please refer to [this page](https://henryhcliu.github.io/talks/).
   
 Teaching
 ======
@@ -45,4 +45,4 @@ TA for SYSH 5000: Model-Based Systems Engineering (Instructor: Prof. Ricky Shi-w
   
 Service and leadership
 ======
-* Please refer to [this page](https://haichaoliu.github.io/about/).
+* Please refer to [this page](https://henryhcliu.github.io/about/).
