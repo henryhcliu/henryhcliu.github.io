@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haichao Liu @ RAD Lab"
+title                    : "Haichao Liu 's Homepage"
 title_separator          : "-"
 name                     : &name "Haichao Liu"
 description              : &description "personal description"
 url                      : https://henryhcliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/_pages/cv.md" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "henryhcliu/henryhcliu.github.io"
-teaser                   : "" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Haichao Liu"
-  avatar           : "personalPic.jpg"
+  avatar           : "personal.jpg"
   bio              : "PhD student in Robotics and Autonomous Systems at HKUST"
   location         : "Hong Kong SAR, China"
   employer         :
