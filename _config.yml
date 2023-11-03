@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://henryhcliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/_pages/cv.md" # the subpath of your site, e.g. "/blog"
 repository               : "henryhcliu/henryhcliu.github.io"
-teaser                   : "teaser.jpeg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Haichao Liu"
   avatar           : "personalPic.jpg"
-  bio              : "PhD student in Robotics and Auto. Systems at HKUST"
+  bio              : "PhD student in Robotics and Autonomous Systems at HKUST"
   location         : "Hong Kong SAR, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/henryhcliu/"
+  github           : "henryhcliu"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,9 +113,9 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/@haichaoliu3484/videos"
+  youtube          : "haichaoliu3484"
   wikipedia        :
-  linkedin         : "https://www.linkedin.com/in/haichaoliu/"
+  linkedin         : "haichaoliu"
 
 
 # Reading Files
