@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching assitant for PG course"
 permalink: /teaching/2024-spring-ROAS5700
 venue: "Rm 149, E1, ROAS Thrust, Systems Hub, HKUST(GZ)"
-date: 2024
+date: 2024-05-20
 location: "Guangzhou, China"
 ---
 
