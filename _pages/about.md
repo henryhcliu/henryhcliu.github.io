@@ -6,18 +6,19 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-description: The homepage of Haichao Liu, a Ph.D. student at Robotics and Autonomous Driving Group of HKUST. 
+description: The homepage of Haichao Liu, a Ph.D. student at Robot Motion Planning and Control Lab of HKUST(GZ). 
 ---
 
-Hello there, I'm Haichao Liu (刘海超), currently a Ph.D. student at Robotics and Autonomous Driving Group of [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) (2022-Present), supervised by Prof. [Jun MA](http://scholar.google.com/citations?user=8VepsVAAAAAJ), Prof. [Ming LIU](http://scholar.google.com/citations?user=CdV5LfQAAAAJ) and Prof. [Shaojie SHEN](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=zh-CN&oi=ao). Prior to this, I received my Master's degree (2020-2022) from the Institute of Intelligent Control and Systems and [the State Key Laboratory of Robotics and System](https://robot.hit.edu.cn/) at [Harbin Institute of Technology](http://en.hit.edu.cn/), where I was supervised by Prof. [Huijun GAO](https://scholar.google.com.hk/citations?user=2DdpHLEAAAAJ&hl=en) and Prof. [Weiyang LIN](https://scholar.google.com/citations?user=BJ610OkAAAAJ&hl=en). I received my bachelor's degree (2016-2020) at [Northeastern University](https://english.neu.edu.cn/), majoring in Robot Engineering, [Faculty of Robot Science and Engineering](http://www.rse.neu.edu.cn/).
+Hello there, I'm Haichao Liu (刘海超), currently a Ph.D. student at Robot Motion Planning and Control Lab of [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust.edu.hk/) (2022-Present), supervised by Prof. [Jun MA](http://scholar.google.com/citations?user=8VepsVAAAAAJ), Prof. [Ming LIU](http://scholar.google.com/citations?user=CdV5LfQAAAAJ) and Prof. [Shaojie SHEN](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=zh-CN&oi=ao). Prior to this, I received my Master's degree (2020-2022) from the Institute of Intelligent Control and Systems and [the State Key Laboratory of Robotics and System](https://robot.hit.edu.cn/) at [Harbin Institute of Technology](http://en.hit.edu.cn/), where I was supervised by Prof. [Huijun GAO](https://scholar.google.com.hk/citations?user=2DdpHLEAAAAJ&hl=en) and Prof. [Weiyang LIN](https://scholar.google.com/citations?user=BJ610OkAAAAJ&hl=en). I received my bachelor's degree (2016-2020) at [Northeastern University](https://english.neu.edu.cn/), majoring in Robot Engineering, [Faculty of Robot Science and Engineering](http://www.rse.neu.edu.cn/).
 
+Research Interests
+======
 My research interests include the areas of **Robotics** and **Autonomous Driving**, with focus on: 
 * Motion Planning and Control for Autonomous Driving
 * Convex and Non-Convex Optimization
 * Safe Learning and Decision-Making for Robot Manipulation
 
 I am always open to potential collaborations, please feel free to contact me at <haichao.liu@connect.ust.hk>. 
-
 
 Internship
 ======
@@ -42,5 +43,5 @@ Selected Honors
 
 Community Services
 ======
-* Conference reviewer: ICRA, ROBIO, IECON
+* Technical Reviewer: Aerospace Science and Technology, IV Symposium, ICRA, IROS, ROBIO, IECON
 * Head of Department of Internal Affairs of HKUST-GSAA

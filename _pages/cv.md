@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -21,28 +21,44 @@ Work experience
   * SIASUN Robot & Automation Co., Ltd
   * Duties included: Observe the composition and operating principles of the robot control system, electrical drive system, and mechanical system; Inspect the robot automatic production workshop on the spot, conduct robot teaching and programming, and complete the palletizing and handling tasks in specific industrial scenarios.
   
-<!-- Skills
+Skills
 ======
-* Machine Learning 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* Programming
+  * Python
+  * MATLAB
+  * ROS
+  * PyTorch
+* Organization
+  * Public Speaking
+  * Project Management
+  * Leadership
+* Paperwork
+  * LaTeX
+  * Microsoft Office
+* Simulation
+  * Gazebo
+  * V-REP
+  * CARLA
 
 Publications
 ======
-Please refer to [this page](https://henryhcliu.github.io/publications/).
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Talks
 ======
-Please refer to [this page](https://henryhcliu.github.io/talks/).
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
   
 Teaching
 ======
-<!-- TA for ROAS 6000C: Robot Motion Planning and Control (Instructor: Prof. Jun MA), Spring 2024. -->
-TA for SYSH 5000: Model-Based Systems Engineering (Instructor: Prof. Ricky Shi-wei. LEE), Spring 2023.
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Please refer to [this page](https://henryhcliu.github.io/about/).
+* Technical Reviewer: Aerospace Science and Technology, IV Symposium, ICRA, IROS, ROBIO, IECON
+* Head of Department of Internal Affairs of HKUST-GSAA
