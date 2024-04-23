@@ -1,7 +1,7 @@
 ---
 title: "Consensus Alternating Direction Method of Multipliers for Cooperative Motion Planning of Large-Scale Non-Holonomic Agents"
 collection: talks
-type: "University Seminar talk"
+type: "University seminar talk"
 permalink: /talks/2024-03-SCC-HKUST
 venue: "Room 2131B, HKUST, Clear Water Bay, Kowloon, Hong Kong"
 date: 2024-03-18

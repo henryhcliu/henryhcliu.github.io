@@ -1,5 +1,5 @@
 ---
-title: "SYSH5000: Model-Based Systems Engineering"
+title: "SYSH 5000: Model-Based Systems Engineering"
 collection: teaching
 type: "Teaching assitant for PG course"
 permalink: /teaching/2023-spring-SYSH5000
