@@ -20,12 +20,19 @@ My research interests include the areas of **Robotics** and **Autonomous Driving
 
 I am always open to potential collaborations, please feel free to contact me at <haichao.liu@connect.ust.hk>. 
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Internship
 ======
 * Industrial Robot R&D, [Siasun Robot&Automation Co., Ltd](https://www.siasun.com/) from [Shenyang Institute of Automation](http://www.sia.cas.cn/), Chinese Academy of Sciences
 
 Selected Honors
 ======
+* **Winning Team (1st place) of the Venture Capital on Campus**, 2024, HKSTP
 * **HKUST Postgraduate Scholarship (Guangzhou Pilot Scheme)**, 2022, Hong Kong University of Science and Technology
 * **Outstanding Graduate**, 2022, Harbin Institute of Technology
 * **Chiang Chen Oversea Research Scholarship**, 2022, Chiang Chen Industrial Charity Foundation 
@@ -43,5 +50,6 @@ Selected Honors
 
 Community Services
 ======
-* Technical Reviewer: Aerospace Science and Technology, IV Symposium, ICRA, IROS, ROBIO, IECON
-* Head of Department of Internal Affairs of HKUST-GSAA
+* Technical Reviewer: IEEE Transactions on Cybernetics, Aerospace Science and Technology, IV Symposium, ICRA, IROS, ROBIO, IECON
+* Vice President of HKUST-GSAA
+* Senate Committee Member of HKUST(GZ)
