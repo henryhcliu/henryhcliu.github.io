@@ -60,5 +60,6 @@ Teaching
   
 Service and leadership
 ======
-* Technical Reviewer: Aerospace Science and Technology, IV Symposium, ICRA, IROS, ROBIO, IECON
-* Head of Department of Internal Affairs of HKUST-GSAA
+* Technical Reviewer: IEEE Transactions on Cybernetics, Aerospace Science and Technology, IV Symposium, ICRA, IROS, ROBIO, IECON
+* Vice President of HKUST-GSAA
+* Senate Committee Member of HKUST(GZ)
