@@ -32,6 +32,7 @@ Internship
 
 Selected Honors
 ======
+* **Outstanding Volunteer Award**, 2024, CyberC, IEEE
 * **Winning Team (1st place) of the Venture Capital on Campus**, 2024, HKSTP
 * **HKUST Postgraduate Scholarship (Guangzhou Pilot Scheme)**, 2022, Hong Kong University of Science and Technology
 * **Outstanding Graduate**, 2022, Harbin Institute of Technology
