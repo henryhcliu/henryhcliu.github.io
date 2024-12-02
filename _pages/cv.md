@@ -23,20 +23,11 @@ Work experience
   
 Skills
 ======
-| Category     | Subcategories                       |
-|--------------|-------------------------------------|
-| Programming  | Python                              |
-|              | MATLAB                              |
-|              | ROS                                 |
-|              | PyTorch                             |
-| Organization | Public Speaking                     |
-|              | Project Management                  |
-|              | Leadership                          |
-| Paperwork    | LaTeX                               |
-|              | Microsoft Office                    |
-| Simulation   | Gazebo                              |
-|              | V-REP                               |
-|              | CARLA                               |
+* **Programming:** Python, MATLAB, ROS, C/C++, R, SQL
+* **Organization:** Public Speaking, Project Management, Leadership
+* **Paperwork:** LaTeX, Microsoft Office
+* **Simulation:** Gazebo, V-REP, CARLA, Isaac-Sim
+* **Hardware:** Arduino, Raspberry Pi, STM32, DSP28335
 
 Publications
 ======
