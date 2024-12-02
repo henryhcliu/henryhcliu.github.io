@@ -23,22 +23,20 @@ Work experience
   
 Skills
 ======
-* Programming
-  * Python
-  * MATLAB
-  * ROS
-  * PyTorch
-* Organization
-  * Public Speaking
-  * Project Management
-  * Leadership
-* Paperwork
-  * LaTeX
-  * Microsoft Office
-* Simulation
-  * Gazebo
-  * V-REP
-  * CARLA
+| Category     | Subcategories                       |
+|--------------|-------------------------------------|
+| Programming  | Python                              |
+|              | MATLAB                              |
+|              | ROS                                 |
+|              | PyTorch                             |
+| Organization | Public Speaking                     |
+|              | Project Management                  |
+|              | Leadership                          |
+| Paperwork    | LaTeX                               |
+|              | Microsoft Office                    |
+| Simulation   | Gazebo                              |
+|              | V-REP                               |
+|              | CARLA                               |
 
 Publications
 ======
