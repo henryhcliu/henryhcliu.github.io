@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Robot Engineering, Northeastern University, 2020
-* M.E. in Mechanical Engineering, Harbin Institute of Technology, 2022
-* Ph.D in Robotics and Autonomous Systems, Hong Kong University of Science and Technology, Present
+* B.S. in Robot Engineering, Northeastern University, 2016-2020
+* Visiting Student in the University of Sydney, 2021
+* M.E. in Mechanical Engineering, Harbin Institute of Technology, 2020-2022
+* NG Visiting Scholar in the Department of Electrical & Computer Engineering, National University of Singapore, 2025
+* Ph.D in Robotics and Autonomous Systems, Hong Kong University of Science and Technology - Guangzhou Campus, Present
 
 Work experience
 ======
