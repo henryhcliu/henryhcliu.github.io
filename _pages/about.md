@@ -23,12 +23,13 @@ Research Interests
 My research interests include the areas of **Robotics** and **Autonomous Driving**, with focus on: 
 * Decision-making, Planning and Control for Autonomous Driving,
 * Dexterous Robot Manipulation with Open-vocabulary Commands,
+
 with the following technologies:
 * Large Multimodal Language Models,
 * Reinforcement learning and imitation learning,
 * Convex and non-convex optimization.
 
-I am always open to potential collaborations, feel free to contact me at <haichao.liu@connect.ust.hk>. 
+I am always open to discussions or potential collaborations, please feel free to contact me at <haichao.liu@connect.ust.hk>. 
 
 Publications
 ======
