@@ -6,10 +6,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-description: The homepage of Haichao Liu, a Ph.D. student at Robot Motion Planning and Control Lab of HKUST(GZ). 
+description: The homepage of Haichao Liu, a Ph.D. candidate at Robot Motion Planning and Control Lab of HKUST(GZ). 
 ---
 
-Welcome! I'm **Haichao Liu** (刘海超), currently a visiting scholar in the Department of Electrical and Computer Engineering at the [National University of Singapore](https://www.nus.edu.sg/) (February 2025 - Present), where I am co-supervised by Prof. [Tong Heng Lee](https://scholar.google.com.sg/citations?user=dP8oLwYAAAAJ). 
+Welcome! I'm **Haichao Liu** (刘海超), currently a visiting scholar in the Department of Electrical and Computer Engineering at the [National University of Singapore](https://www.nus.edu.sg/) (February 2025 - Present), where I am supervised by Prof. [Tong Heng Lee](https://scholar.google.com.sg/citations?user=dP8oLwYAAAAJ). 
 
 Concurrently, I am pursuing my Ph.D. at the [Robot Motion Planning and Control Lab](https://personal.hkust-gz.edu.cn/junma) at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust.edu.hk/) (August 2022 - Present), under the guidance of Prof. [Jun Ma](http://scholar.google.com/citations?user=8VepsVAAAAAJ) and Prof. [Shaojie Shen](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=zh-CN&oi=ao).
 
@@ -17,6 +17,7 @@ Previously, I earned my Master's degree (August 2020 - July 2022) from the Insti
 
 I also participated in a Postgraduate Study Abroad Program at the School of Mathematics and Statistics at [The University of Sydney](https://www.sydney.edu.au/) (August 2021 - January 2022). My academic journey began with a Bachelor's degree in Robot Engineering from [Northeastern University](https://english.neu.edu.cn/) (2016 - 2020), within the [Faculty of Robot Science and Engineering](http://www.rse.neu.edu.cn/).
 
+I am always open to discussions or potential collaborations, please feel free to contact me at <haichao.liu@connect.ust.hk>. 
 
 Research Interests
 ======
@@ -28,8 +29,6 @@ with the following technologies:
 * Large Multimodal Language Models,
 * Reinforcement learning and imitation learning,
 * Convex and non-convex optimization.
-
-I am always open to discussions or potential collaborations, please feel free to contact me at <haichao.liu@connect.ust.hk>. 
 
 Publications
 ======
