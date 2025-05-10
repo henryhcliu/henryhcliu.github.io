@@ -9,7 +9,7 @@ redirect_from:
 description: The homepage of Haichao Liu, a Ph.D. candidate at Robot Motion Planning and Control Lab of HKUST(GZ). 
 ---
 
-Welcome! I'm **Haichao Liu** (刘海超), currently a visiting scholar in the Department of Electrical and Computer Engineering at the [National University of Singapore](https://www.nus.edu.sg/) (February 2025 - Present), where I am supervised by Prof. [Tong Heng Lee](https://scholar.google.com.sg/citations?user=dP8oLwYAAAAJ). 
+Welcome! I'm **Haichao Liu** (刘海超), currently a visiting scholar in the Department of ECE at the [National University of Singapore](https://www.nus.edu.sg/) (February 2025 - Present), where I am supervised by Prof. [Tong Heng Lee](https://scholar.google.com.sg/citations?user=dP8oLwYAAAAJ). I am also honored to be attached to the Autonomous Systems and Robotics (ASR) Group at [A*STAR](https://www.a-star.edu.sg/) ARTC as a research scientist.
 
 Concurrently, I am pursuing my Ph.D. at the [Robot Motion Planning and Control Lab](https://personal.hkust-gz.edu.cn/junma) at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust.edu.hk/) (August 2022 - Present), under the guidance of Prof. [Jun Ma](http://scholar.google.com/citations?user=8VepsVAAAAAJ) and Prof. [Shaojie Shen](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=zh-CN&oi=ao).
 

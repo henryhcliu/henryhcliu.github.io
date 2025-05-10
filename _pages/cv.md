@@ -13,7 +13,7 @@ Education
 ======
 - Ph.D. candidate in Robotics and Autonomous Systems, **HKUST**, Present
 
-- NG Visiting Scholar, **National University of Singapore**, 2025
+- Visiting Scholar, **National University of Singapore**, 2025
 
 - M.E. in Mechanical Engineering, **Harbin Institute of Technology**, 2020-2022
 
