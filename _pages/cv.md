@@ -23,6 +23,9 @@ Education
 
 Work experience
 ======
+* Spring & Summer 2025: Research Scientist
+  * Autonomous Systems and Robotics Group, A*STAR ARTC, Singapore
+  * Duties include: TBA
 * Summer 2019: Internship
   * SIASUN Robot & Automation Co., Ltd
   * Duties included: Observe the composition and operating principles of the robot control system, electrical drive system, and mechanical system; Inspect the robot automatic production workshop on the spot, conduct robot teaching and programming, and complete the palletizing and handling tasks in specific industrial scenarios.
