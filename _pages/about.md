@@ -9,21 +9,23 @@ redirect_from:
 description: The homepage of Haichao Liu, a Ph.D. candidate at Robot Motion Planning and Control Lab of HKUST(GZ).
 ---
 
-Welcome! I'm **Haichao Liu** (刘海超), currently a visiting scholar in the Department of ECE at the [National University of Singapore](https://www.nus.edu.sg/) (February 2025 - Present), where I am supervised by Prof. [Tong Heng Lee](https://scholar.google.com.sg/citations?user=dP8oLwYAAAAJ). I am also honored to be attached to the Autonomous Systems and Robotics (ASR) Group at [A*STAR](https://www.a-star.edu.sg/) ARTC as a research scientist.
+Welcome! I'm **Haichao Liu** (刘海超), currently a postdoctoral research associate in [Perception and embodied INtElligence (PINE) Lab](https://pine-lab-ntu.github.io/) at the School of EEE at [Nanyang Technological University](https://www.ntu.edu.sg/) (September 2025 - Present), supervised by Prof. [Ziwei Wang](https://scholar.google.com/citations?user=cMTW09EAAAAJ).
 
-Concurrently, I am pursuing my Ph.D. at the Robot Motion Planning and Control Lab at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust.edu.hk/) (August 2022 - Present), under the guidance of Prof. [Jun Ma](https://ece.hkust.edu.hk/junma) and Prof. [Shaojie Shen](https://ece.hkust.edu.hk/eeshaojie).
+I was a visiting scholar (February 2025 - August 2025) in the Department of ECE at the [National University of Singapore](https://www.nus.edu.sg/), where I was supervised by Prof. [Tong Heng Lee](https://scholar.google.com.sg/citations?user=dP8oLwYAAAAJ). I was also honored to be attached to the Autonomous Systems and Robotics (ASR) Group at [A*STAR](https://www.a-star.edu.sg/) ARTC as a part-time research scientist.
 
-Previously, I earned my Master's degree (August 2020 - July 2022) from the Institute of Intelligent Control and Systems and the State Key Laboratory of Robotics and System at [Harbin Institute of Technology](http://en.hit.edu.cn/), where I was supervised by Prof. [Huijun Gao](https://scholar.google.com.hk/citations?user=2DdpHLEAAAAJ&hl=en) and Prof. [Weiyang Lin](https://scholar.google.com/citations?user=BJ610OkAAAAJ&hl=en). 
+I will receive my PhD degree from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) (August 2022 - August 2025), when I was in the Robot Motion Planning and Control Lab, under the guidance of Prof. [Jun Ma](https://ece.hkust.edu.hk/junma) and Prof. [Shaojie Shen](https://ece.hkust.edu.hk/eeshaojie).
 
-I also participated in a Postgraduate Study Abroad Program at the School of Mathematics and Statistics at [The University of Sydney](https://www.sydney.edu.au/) (August 2021 - January 2022). My academic journey began with a Bachelor's degree in Robot Engineering from [Northeastern University](https://english.neu.edu.cn/) (2016 - 2020), within the Faculty of Robot Science and Engineering.
+Previously, I earned my Master's degree from the Institute of Intelligent Control and Systems and the State Key Laboratory of Robotics and System at [Harbin Institute of Technology](http://en.hit.edu.cn/) (August 2020 - July 2022), where I was supervised by Prof. [Huijun Gao](https://scholar.google.com.hk/citations?user=2DdpHLEAAAAJ&hl=en) and Prof. [Weiyang Lin](https://scholar.google.com/citations?user=BJ610OkAAAAJ&hl=en).
+
+I also participated in a Postgraduate Study Abroad Program at the School of Mathematics and Statistics at [The University of Sydney](https://www.sydney.edu.au/) (August 2021 - January 2022). My academic journey began with a Bachelor's degree in Robot Engineering from [Northeastern University](https://english.neu.edu.cn/) (September 2016 - July 2020), within the Faculty of Robot Science and Engineering.
 
 I am always open to discussions or potential collaborations, please feel free to contact me at <haichao.liu@connect.ust.hk>. 
 
 Research Interests
 ======
 My research interests include the areas of **Robotics** and **Autonomous Driving**, with focus on: 
-* Decision-making, Planning and Control for Autonomous Driving,
 * Dexterous Robot Manipulation with Open-vocabulary Commands,
+* Decision-making, Planning and Control for Autonomous Driving,
 
 with the following technologies:
 * Large Multimodal Language Models,
@@ -38,10 +40,12 @@ Publications
 
 Internship
 ======
+* Part-time Research Assistant for a multimodal media research project, Department of Marketing, [The Hong Kong University of Science and Technology](https://www.ust.hk/)
 * Industrial Robot R&D, [Siasun Robot&Automation Co., Ltd](https://www.siasun.com/) from [Shenyang Institute of Automation](http://www.sia.cas.cn/), Chinese Academy of Sciences
 
 Selected Honors
 ======
+* **Certificate of Appreciation**, 2025, Senate of HKUST(GZ)
 * **Outstanding Volunteer Award**, 2024, CyberC, IEEE
 * **Winning Team (1st place) of the Venture Capital on Campus**, 2024, HKSTP
 * **HKUST Postgraduate Scholarship (Guangzhou Pilot Scheme)**, 2022, Hong Kong University of Science and Technology
@@ -61,6 +65,6 @@ Selected Honors
 
 Community Services
 ======
-* Technical Reviewer: IEEE Transactions on Cybernetics, Aerospace Science and Technology, IV Symposium, ICRA, IROS, ROBIO, IECON
-* Vice President of HKUST-GSAA
-* Senate Committee Member of HKUST(GZ)
+* Peer Reviewer: Journal of Field Robotics, IEEE Transactions on Vehicular Technology, IEEE Transactions on Cybernetics, Aerospace Science and Technology, IV Symposium, ICRA, IROS, ROBIO, IECON, etc.
+* Vice President of HKUST-GSAA (2024-2025)
+* Senate Committee Member of HKUST(GZ) (2024-2025)
