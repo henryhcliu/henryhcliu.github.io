@@ -9,11 +9,11 @@ redirect_from:
 description: The homepage of Haichao Liu, a Ph.D. candidate at Robot Motion Planning and Control Lab of HKUST(GZ).
 ---
 
-Welcome! I'm **Haichao Liu** (刘海超), currently a postdoctoral research associate in [Perception and embodied INtElligence (PINE) Lab](https://pine-lab-ntu.github.io/) at the School of EEE at [Nanyang Technological University](https://www.ntu.edu.sg/) (September 2025 - Present), supervised by Prof. [Ziwei Wang](https://scholar.google.com/citations?user=cMTW09EAAAAJ).
+Welcome! I'm **Haichao Liu** (刘海超), currently a postdoctoral research associate in [Perception and embodied INtElligence (PINE) Lab](https://pine-lab-ntu.github.io/) at EEE of [Nanyang Technological University](https://www.ntu.edu.sg/) (September 2025 - Present), supervised by Prof. [Ziwei Wang](https://scholar.google.com/citations?user=cMTW09EAAAAJ).
 
-I was a visiting scholar (February 2025 - August 2025) in the Department of ECE at the [National University of Singapore](https://www.nus.edu.sg/), where I was supervised by Prof. [Tong Heng Lee](https://scholar.google.com.sg/citations?user=dP8oLwYAAAAJ). I was also honored to be attached to the Autonomous Systems and Robotics (ASR) Group at [A*STAR](https://www.a-star.edu.sg/) ARTC as a part-time research scientist.
+I was a visiting scholar (February 2025 - August 2025) in the Mechatronics and Automation Lab at ECE of the [National University of Singapore](https://www.nus.edu.sg/), where I was supervised by Prof. [Tong Heng Lee](https://scholar.google.com.sg/citations?user=dP8oLwYAAAAJ). I was also honored to be attached to the Autonomous Systems and Robotics (ASR) Group at [A*STAR](https://www.a-star.edu.sg/) ARTC as a part-time research scientist.
 
-I will receive my PhD degree from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) (August 2022 - August 2025), when I was in the Robot Motion Planning and Control Lab, under the guidance of Prof. [Jun Ma](https://ece.hkust.edu.hk/junma) and Prof. [Shaojie Shen](https://ece.hkust.edu.hk/eeshaojie).
+I will receive my PhD degree from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) (August 2022 - August 2025), when I was in the Robot Motion Planning and Control Lab, under the guidance of Prof. [Jun Ma](https://scholar.google.com/citations?user=8VepsVAAAAAJ) and Prof. [Shaojie Shen](https://scholar.google.com/citations?user=u8Q0_xsAAAAJ).
 
 Previously, I earned my Master's degree from the Institute of Intelligent Control and Systems and the State Key Laboratory of Robotics and System at [Harbin Institute of Technology](http://en.hit.edu.cn/) (August 2020 - July 2022), where I was supervised by Prof. [Huijun Gao](https://scholar.google.com.hk/citations?user=2DdpHLEAAAAJ&hl=en) and Prof. [Weiyang Lin](https://scholar.google.com/citations?user=BJ610OkAAAAJ&hl=en).
 
