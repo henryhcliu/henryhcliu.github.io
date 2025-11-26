@@ -66,6 +66,8 @@ Teaching
   
 Service and leadership
 ======
-* Peer Reviewer: Journal of Field Robotics, IEEE Transactions on Vehicular Technology, IEEE Transactions on Cybernetics, Aerospace Science and Technology, IV Symposium, ICRA, IROS, ROBIO, IECON
+* Peer Reviewer: IEEE Transactions on Cybernetics, IEEE Transactions on Vehicular Technology, PLOS ONE, Robotics and Automation Magazine, Journal of Field Robotics, Aerospace Science and Technology, IV Symposium, ICRA, IROS, ROBIO, IECON, etc.
+* Session Chair/Co-Chair: ITSC 2025, IROS 2025
+* Member of NTU EEE Research Staff Association (RSA) (2025-)
 * Vice President of HKUST-GSAA (2024-2025)
 * Senate Committee Member of HKUST(GZ) (2024-2025)
