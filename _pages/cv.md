@@ -11,7 +11,7 @@ redirect_from:
 
 Work Experience
 ======
-- Postdoctoral Research Associate, **Nanyang Technological University**, September 2025 - Present
+- Postdoc, **Nanyang Technological University**, September 2025 - Present
 
 
 Education
