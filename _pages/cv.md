@@ -26,6 +26,10 @@ Education
 
 - B.S. in Robot Engineering, **Northeastern University**, 2016-2020
 
+Research Interests
+======
+- Robotic Manipulation, Motion Planning and Control, Autonomous Driving, Reinforcement Learning, Imitation Learning, Optimization, etc.
+
 Internship (Part-Time) Experience
 ======
 * Spring & Summer 2025: Research Scientist
@@ -66,8 +70,8 @@ Teaching
   
 Service and leadership
 ======
-* Peer Reviewer: IEEE Transactions on Cybernetics, IEEE Transactions on Vehicular Technology, PLOS ONE, Robotics and Automation Magazine, Journal of Field Robotics, Aerospace Science and Technology, IV Symposium, ICRA, IROS, ROBIO, IECON, etc.
-* Session Chair/Co-Chair: ITSC 2025, IROS 2025
-* Member of NTU EEE Research Staff Association (RSA) (2025-)
-* Vice President of HKUST-GSAA (2024-2025)
-* Senate Committee Member of HKUST(GZ) (2024-2025)
+* **Peer Reviewer:** IEEE Transactions on Cybernetics, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Vehicular Technology, IEEE Robotics and Automation Magazine, Journal of Field Robotics, Aerospace Science and Technology, PLOS ONE, IV Symposium, ICRA, IROS, ROBIO, IECON, etc.
+* **Session Chair/Co-Chair:** ITSC 2025, IROS 2025
+* **Committee Member:** AIAAT 2026
+* **Overall PiC** for [1st Robotic Collaborative (RoCo) Assembling Challenge for Human-Centered Manufacturing](https://rocochallenge.github.io/RoCo2026/) at [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
+* **Other Services:** Member of NTU EEE Research Staff Association (RSA) (2025-), Vice President of HKUST-GSAA (2024-2025), Senate Committee Member of HKUST(GZ) (2024-2025)
