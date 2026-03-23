@@ -103,12 +103,12 @@ $(document).ready(function(){
     }
 
     var tabs = tabList.find(".publication-tabs__tab");
-    var items = $(".publication-list__item");
+    var sections = $(".publication-category");
 
     var showTag = function(tag) {
-      items.each(function() {
-        var tags = ($(this).data("publicationTags") || "").toString().split(/\s+/).filter(Boolean);
-        var matches = tag === "all" || tags.indexOf(tag) !== -1;
+      sections.each(function() {
+        var sectionTag = ($(this).data("publicationTag") || "").toString();
+        var matches = tag === "all" || sectionTag === tag;
         $(this).toggle(matches);
       });
     };

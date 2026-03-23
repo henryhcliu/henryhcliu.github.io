@@ -62,17 +62,18 @@
   }
 }
 
-.publication-list {
+.publication-categories {
   display: flex;
   flex-direction: column;
 }
 
-.publication-list__item {
+.publication-category {
   margin-top: 1.5rem;
+  padding-top: 1.25rem;
 }
 
-.publication-list__item:first-child {
-  margin-top: 0;
+.publication-category + .publication-category {
+  border-top: 1px solid $border-color;
 }
 
 .archive__subtitle {
