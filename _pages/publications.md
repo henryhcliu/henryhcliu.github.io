@@ -24,13 +24,22 @@ author_profile: true
 </div>
 
 <div class="publication-categories">
+  {% if site.publications.size > 0 %}
+    <section class="publication-category publication-category--all" data-publication-tag="all">
+      <h2 id="all-papers" class="archive__subtitle">All Papers</h2>
+      {% for post in site.publications reversed %}
+        {% include archive-single.html%}
+      {% endfor %}
+    </section>
+  {% endif %}
+
   {% for candidate in publication_tag_candidates %}
     {% assign tagged_publications = site.publications | where_exp: "item", "item.tags contains candidate" %}
     {% if tagged_publications.size > 0 %}
       <section class="publication-category" data-publication-tag="{{ candidate | slugify }}">
         <h2 id="{{ candidate | slugify }}" class="archive__subtitle">{{ candidate | capitalize }}</h2>
         {% for post in tagged_publications reversed %}
-          {% include archive-single.html %}
+          {% include archive-single.html%}
         {% endfor %}
       </section>
     {% endif %}

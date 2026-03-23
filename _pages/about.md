@@ -51,7 +51,7 @@ Publications
     <h3 id="all-papers">All Papers</h3>
     <ul>
       {% for post in site.publications reversed %}
-        {% include archive-single-cv.html %}
+        {% include archive-single-cv.html show_tags=false %}
       {% endfor %}
     </ul>
   </section>
@@ -63,7 +63,7 @@ Publications
         <h3 id="{{ candidate | slugify }}">{{ candidate | capitalize }}</h3>
         <ul>
           {% for post in tagged_publications reversed %}
-            {% include archive-single-cv.html %}
+            {% include archive-single-cv.html show_tags=false %}
           {% endfor %}
         </ul>
       </section>

@@ -15,14 +15,25 @@
       });
     };
 
-    tabs.on("click", function() {
-      var $tab = $(this);
-      var tag = $tab.data("publicationTag") || "all";
+    var activateTab = function(tag) {
+      var $target = tabs.filter('[data-publication-tag="' + tag + '"]');
+      if (!$target.length) {
+        $target = tabs.filter('[data-publication-tag="all"]');
+        tag = "all";
+      }
       tabs.removeClass("is-active").attr("aria-selected", "false");
-      $tab.addClass("is-active").attr("aria-selected", "true");
+      $target.addClass("is-active").attr("aria-selected", "true");
+      return tag;
+    };
+
+    tabs.on("click", function() {
+      var tag = $(this).data("publicationTag") || "all";
+      tag = activateTab(tag);
       showTag(tag);
     });
 
-    showTag("all");
+    var initialTag = (window.location.hash || "").replace("#", "") || "all";
+    initialTag = activateTab(initialTag);
+    showTag(initialTag);
   });
 })(jQuery);

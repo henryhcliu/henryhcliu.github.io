@@ -53,7 +53,7 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-cv.html show_tags=false %}
   {% endfor %}</ul>
   
 Talks
@@ -65,7 +65,7 @@ Talks
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-cv.html show_tags=false %}
   {% endfor %}</ul>
   
 Service and leadership
