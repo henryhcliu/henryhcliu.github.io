@@ -34,9 +34,16 @@ with the following technologies:
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+{% assign publication_tag_candidates = "robotic manipulation|robotic navigation|motion planning and control|autonomous driving" | split: "|" %}
+{% for candidate in publication_tag_candidates %}
+  {% assign tagged_publications = site.publications | where_exp: "item", "item.tags contains candidate" %}
+  {% if tagged_publications.size > 0 %}
+  <h3 id="{{ candidate | slugify }}">{{ candidate | capitalize }}</h3>
+  <ul>{% for post in tagged_publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  {% endif %}
+{% endfor %}
 
 Internship
 ======
