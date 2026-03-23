@@ -9,15 +9,15 @@ redirect_from:
 description: The homepage of Haichao Liu, Postdoctoral Research Fellow at Nanyang Technological University.
 ---
 
-Welcome! I'm **Haichao Liu** (刘海超), currently a Postdoctoral Research Fellow in [Perception and embodied INtElligence (PINE) Lab](https://pine-lab-ntu.github.io/) at EEE of [Nanyang Technological University](https://www.ntu.edu.sg/) (2025 - Present), supervised by Prof. [Ziwei Wang](https://scholar.google.com/citations?user=cMTW09EAAAAJ).
+Welcome! I'm **Haichao Liu** (刘海超), currently a Postdoctoral Research Fellow in [Perception and embodied INtElligence (PINE) Lab](https://pine-lab-ntu.github.io/) at EEE of [Nanyang Technological University](https://www.ntu.edu.sg/) (2025.9 - Present), supervised by Prof. [Ziwei Wang](https://scholar.google.com/citations?user=cMTW09EAAAAJ).
 
-I was a visiting scholar (February 2025 - August 2025) in the Mechatronics and Automation Lab at ECE of the [National University of Singapore](https://www.nus.edu.sg/), where I was supervised by Prof. [Tong Heng Lee](https://scholar.google.com.sg/citations?user=dP8oLwYAAAAJ). I was also honored to be attached to the Autonomous Systems and Robotics (ASR) Group at [A*STAR](https://www.a-star.edu.sg/) ARTC as a part-time research scientist.
+I was a visiting scholar (2025.2 - 2025.8) in the Mechatronics and Automation Lab at ECE of the [National University of Singapore](https://www.nus.edu.sg/), where I was supervised by Prof. [Tong Heng Lee](https://scholar.google.com.sg/citations?user=dP8oLwYAAAAJ). I was also honored to be attached to the Autonomous Systems and Robotics (ASR) Group at [A*STAR](https://www.a-star.edu.sg/) ARTC as a part-time research scientist.
 
-I received my PhD degree from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) (August 2022 - August 2025), when I was in the Robot Motion Planning and Control Lab, under the guidance of Prof. [Jun Ma](https://scholar.google.com/citations?user=8VepsVAAAAAJ) and Prof. [Shaojie Shen](https://scholar.google.com/citations?user=u8Q0_xsAAAAJ).
+I received my PhD degree from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) (2022.8 - 2025.8), when I was in the Robot Motion Planning and Control Lab, under the guidance of Prof. [Jun Ma](https://scholar.google.com/citations?user=8VepsVAAAAAJ) and Prof. [Shaojie Shen](https://scholar.google.com/citations?user=u8Q0_xsAAAAJ).
 
-Previously, I earned my Master's degree from the Institute of Intelligent Control and Systems and the State Key Laboratory of Robotics and System at [Harbin Institute of Technology](http://en.hit.edu.cn/) (August 2020 - July 2022), where I was supervised by Prof. [Huijun Gao](https://scholar.google.com.hk/citations?user=2DdpHLEAAAAJ&hl=en) and Prof. [Weiyang Lin](https://scholar.google.com/citations?user=BJ610OkAAAAJ&hl=en).
+Previously, I earned my Master's degree from the Institute of Intelligent Control and Systems and the State Key Laboratory of Robotics and System at [Harbin Institute of Technology](http://en.hit.edu.cn/) (2020.8 - 2022.7), where I was supervised by Prof. [Huijun Gao](https://scholar.google.com.hk/citations?user=2DdpHLEAAAAJ&hl=en) and Prof. [Weiyang Lin](https://scholar.google.com/citations?user=BJ610OkAAAAJ&hl=en).
 
-I also participated in a Postgraduate Study Abroad Program at the School of Mathematics and Statistics at [The University of Sydney](https://www.sydney.edu.au/) (August 2021 - January 2022). My academic journey began with a Bachelor's degree in Robot Engineering from [Northeastern University](https://english.neu.edu.cn/) (September 2016 - July 2020), within the Faculty of Robot Science and Engineering.
+I also participated in a Postgraduate Study Abroad Program at the School of Mathematics and Statistics at [The University of Sydney](https://www.sydney.edu.au/) (2021.8 - 2022.1). My academic journey began with a Bachelor's degree in Robot Engineering from [Northeastern University](https://english.neu.edu.cn/) (2016.9 - 2020.7), within the Faculty of Robot Science and Engineering.
 
 I am always open to discussions or potential collaborations, please feel free to contact me at <haichao.liu@connect.ust.hk>. 
 
@@ -47,6 +47,15 @@ Publications
 </div>
 
 <div class="publication-categories">
+  <section class="publication-category publication-category--all" data-publication-tag="all">
+    <h3 id="all-papers">All Papers</h3>
+    <ul>
+      {% for post in site.publications reversed %}
+        {% include archive-single-cv.html %}
+      {% endfor %}
+    </ul>
+  </section>
+
   {% for candidate in publication_tag_candidates %}
     {% assign tagged_publications = site.publications | where_exp: "item", "item.tags contains candidate" %}
     {% if tagged_publications.size > 0 %}

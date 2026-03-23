@@ -16,7 +16,7 @@ Work Experience
 
 Education
 ======
-- Ph.D. in Robotics and Autonomous Systems, **Hong Kong University of Science and Technology**, Present
+- Ph.D. in Robotics and Autonomous Systems, **Hong Kong University of Science and Technology**, 2025
 
 - Visiting Scholar, **National University of Singapore**, 2025
 
