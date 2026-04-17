@@ -34,7 +34,28 @@ with the following technologies:
 
 Publications
 ======
-{% assign publication_tag_candidates = "robotic manipulation|robotic navigation|motion planning and control|autonomous driving" | split: "|" %}
+{% assign publication_tag_candidates = "" | split: "" %}
+{% for post in site.publications %}
+  {% if post.tags %}
+    {% assign publication_tag_candidates = publication_tag_candidates | concat: post.tags %}
+  {% endif %}
+{% endfor %}
+{% assign publication_tag_candidates = publication_tag_candidates | uniq | sort %}
+{% assign publication_tag_priority = "robotic manipulation|robotic navigation|motion planning and control|autonomous driving" | split: "|" %}
+{% assign ordered_publication_tags = "" | split: "" %}
+{% for priority_tag in publication_tag_priority %}
+  {% if publication_tag_candidates contains priority_tag %}
+    {% assign priority_tag_array = priority_tag | split: "|||" %}
+    {% assign ordered_publication_tags = ordered_publication_tags | concat: priority_tag_array %}
+  {% endif %}
+{% endfor %}
+{% for tag in publication_tag_candidates %}
+  {% unless publication_tag_priority contains tag %}
+    {% assign tag_array = tag | split: "|||" %}
+    {% assign ordered_publication_tags = ordered_publication_tags | concat: tag_array %}
+  {% endunless %}
+{% endfor %}
+{% assign publication_tag_candidates = ordered_publication_tags %}
 
 <div class="publication-tabs" role="tablist" aria-label="Publication categories">
   <button class="publication-tabs__tab is-active" type="button" role="tab" aria-selected="true" data-publication-tag="all">All Papers</button>
@@ -78,6 +99,7 @@ Internship
 
 Selected Honors
 ======
+* **Judge Appreciation Certificate**, 2026, Ministry of Education of Singapore
 * **Certificate of Appreciation**, 2025, Senate of HKUST(GZ)
 * **Outstanding Volunteer Award**, 2024, CyberC, IEEE
 * **Winning Team (1st place) of the Venture Capital on Campus**, 2024, HKSTP
@@ -102,4 +124,7 @@ Community Services
 * **Session Chair/Co-Chair:** ITSC 2025, IROS 2025
 * **Committee Member:** AIAAT 2026
 * **Overall PiC** for [1st Robotic Collaborative (RoCo) Assembling Challenge for Human-Centered Manufacturing](https://rocochallenge.github.io/RoCo2026/) at [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
-* **Other Services:** Member of NTU EEE Research Staff Association (RSA) (2025-), Vice President of HKUST-GSAA (2024-2025), Senate Committee Member of HKUST(GZ) (2024-2025)
+* **Other Services:** 
+  * Member of NTU EEE Research Staff Association (RSA) (2025-)
+  * Vice President of HKUST-GSAA (2024-2025)
+  * Senate Committee Member of HKUST(GZ) (2024-2025)

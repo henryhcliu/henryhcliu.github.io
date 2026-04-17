@@ -87,6 +87,22 @@
   font-size: $type-size-4;
 }
 
+.publication-category .archive__item-title {
+  margin-top: 0.25em;
+  margin-bottom: 0.2em;
+  font-size: $type-size-5;
+  line-height: 1.35;
+}
+
+.publication-category .archive__item-title a {
+  font-weight: 600;
+}
+
+.publication-category .archive__item p {
+  margin-bottom: 0.35em;
+  font-size: $type-size-5;
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;

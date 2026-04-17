@@ -1,0 +1,19 @@
+---
+title: "A Survey on Reinforcement Learning of Vision-Language-Action Models for Robotic Manipulation"
+collection: publications
+permalink: /publication/2025-12-techrxiv-rlvla-survey
+
+tags: ['robotic manipulation', 'survey']
+excerpt: "The vision of building generalist robotic systems capable of performing diverse manipulation tasks has been significantly advanced by Vision-Language-Action models (VLAs), which leverage large-scale pretraining to acquire general visuomotor priors via imitation learning. Current pre-trained VLAs still require fine-tuning to adapt to real-world deployment, where conventional imitation learning struggles with out-of-distribution (OOD) generalization due to the dependence on collected datasets with limited coverage of states and actions. Reinforcement learning (RL) leverages self-exploration and result-driven optimization to enhance OOD generalization in VLAs. This survey outlines how RL can bridge the gap between pretraining and real-world deployment, offering a comprehensive overview of the RL-VLA training paradigm. Our taxonomy is organized along four core dimensions that reflect the full learning-to-deployment lifecycle: RL-VLA architecture, training paradigms, real-world deployment, and benchmarking and evaluation."
+
+date: 2025-12-09
+venue: 'TechRxiv'
+paperurl: 'https://www.techrxiv.org/doi/full/10.36227/techrxiv.176531955.54563920/v1'
+citation: 'H. Deng, Z. Wu, H. Liu, W. Guo, Y. Xue, Z. Shan, C. Zhang, B. Jia, Y. Ling, G. Lu, and Z. Wang, "A Survey on Reinforcement Learning of Vision-Language-Action Models for Robotic Manipulation," TechRxiv, 2025. doi: 10.36227/techrxiv.176531955.54563920/v1'
+---
+
+The vision of building generalist robotic systems capable of performing diverse manipulation tasks has been significantly advanced by Vision-Language-Action models (VLAs), which leverage large-scale pretraining to acquire general visuomotor priors via imitation learning. Current pre-trained VLAs still require fine-tuning to adapt to real-world deployment, where conventional imitation learning struggles with out-of-distribution (OOD) generalization due to the dependence on collected datasets with limited coverage of states and actions. Reinforcement learning (RL) leverages self-exploration and result-driven optimization to enhance OOD generalization in VLAs. 
+
+This survey outlines how RL can bridge the gap between pretraining and real-world deployment, offering a comprehensive overview of the RL-VLA training paradigm. Our taxonomy is organized along four core dimensions that reflect the full learning-to-deployment lifecycle: **RL-VLA architecture**, **training paradigms**, **real-world deployment**, and **benchmarking and evaluation**. 
+
+First, we introduce the key design principles of RL-VLA components, including action, reward, and transition modeling. Second, we review online, offline, and test-time RL paradigms, analyzing their effectiveness and challenges in improving VLA generalization. Third, we examine real-world deployment frameworks, from sim-to-real transfer to safe exploration, autonomous recovery, and human-in-the-loop alignment. Finally, we summarize benchmarking methods, highlight open challenges, and outline the path toward general robotic systems. Our project page can be found [here](https://github.com/Denghaoyuan123/Awesome-RL-VLA).
