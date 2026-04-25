@@ -1,8 +1,8 @@
 ---
 title: "SYSH 5000: Model-Based Systems Engineering"
 collection: teaching
-type: "Teaching assitant for PG course"
-permalink: /teaching/2023-spring-SYSH5000
+type: "Course assistant for PG course"
+permalink: /services/2023-spring-SYSH5000
 venue: "Rm 101, W1, Systems Hub, HKUST(GZ)"
 date: 2023-05-20
 location: "Guangzhou, China"

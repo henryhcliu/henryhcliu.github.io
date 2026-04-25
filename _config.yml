@@ -86,7 +86,7 @@ author:
   # location         : "Hong Kong SAR, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=_skBno8AAAAJ"
   email            : haichao.liu@connect.ust.hk
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -178,7 +178,7 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path/
+    permalink: /services/:path/
   publications:
     output: true
     permalink: /:collection/:path/

@@ -1,8 +1,8 @@
 ---
 title: "ROAS 5700: Robot Motion Planning and Control"
 collection: teaching
-type: "Teaching assitant for PG course"
-permalink: /teaching/2024-spring-ROAS5700
+type: "Course assistant for PG course"
+permalink: /services/2024-spring-ROAS5700
 venue: "Rm 149, E1, ROAS Thrust, Systems Hub, HKUST(GZ)"
 date: 2024-05-20
 location: "Guangzhou, China"

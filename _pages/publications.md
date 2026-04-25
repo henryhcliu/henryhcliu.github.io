@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign publication_tag_candidates = "robotic manipulation|robotic navigation|motion planning and control|autonomous driving" | split: "|" %}
+{% assign publication_tag_candidates = "robotic manipulation|robot navigation|motion planning and control|autonomous driving" | split: "|" %}
 
 <div class="publication-tabs" role="tablist" aria-label="Publication categories">
   <button class="publication-tabs__tab is-active" type="button" role="tab" aria-selected="true" data-publication-tag="all">All Papers</button>

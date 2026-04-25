@@ -41,7 +41,7 @@ Publications
   {% endif %}
 {% endfor %}
 {% assign publication_tag_candidates = publication_tag_candidates | uniq | sort %}
-{% assign publication_tag_priority = "robotic manipulation|robotic navigation|motion planning and control|autonomous driving" | split: "|" %}
+{% assign publication_tag_priority = "robotic manipulation|robot navigation|motion planning and control|autonomous driving" | split: "|" %}
 {% assign ordered_publication_tags = "" | split: "" %}
 {% for priority_tag in publication_tag_priority %}
   {% if publication_tag_candidates contains priority_tag %}
@@ -120,9 +120,9 @@ Selected Honors
 
 Community Services
 ======
-* **Peer Reviewer:** IEEE Transactions on Cybernetics, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Vehicular Technology, IEEE Robotics and Automation Magazine, Journal of Field Robotics, Aerospace Science and Technology, PLOS ONE, IV Symposium, ICRA, IROS, ROBIO, IECON, etc.
+* **Peer Reviewer:** IEEE Transactions on Cybernetics, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Vehicular Technology, IEEE Robotics and Automation Magazine, Journal of Field Robotics, Aerospace Science and Technology, PLOS ONE, ICRA, IROS, IV Symposium, ITSC, ROBIO, IECON, etc.
 * **Session Chair/Co-Chair:** ITSC 2025, IROS 2025
-* **Committee Member:** AIAAT 2026
+* **Committee Member:** [AIAAT 2026](https://aiaat.org/) (Kunming, China), [AMLDS 2026](https://amlds.site/) (Osaka, Japan)
 * **Overall PiC** for [1st Robotic Collaborative (RoCo) Assembling Challenge for Human-Centered Manufacturing](https://rocochallenge.github.io/RoCo2026/) at [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
 * **Other Services:** 
   * Member of NTU EEE Research Staff Association (RSA) (2025-)
