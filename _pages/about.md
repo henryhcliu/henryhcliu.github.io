@@ -19,7 +19,30 @@ Previously, I earned my Master's degree from the Institute of Intelligent Contro
 
 I also participated in a Postgraduate Study Abroad Program at the School of Mathematics and Statistics at [The University of Sydney](https://www.sydney.edu.au/) (2021.8 - 2022.1). My academic journey began with a Bachelor's degree in Robot Engineering from [Northeastern University](https://english.neu.edu.cn/) (2016.9 - 2020.7), within the Faculty of Robot Science and Engineering.
 
-I am always open to discussions or potential collaborations, please feel free to contact me at <haichao.liu@connect.ust.hk>. 
+I am always open to discussions or potential collaborations, please feel free to contact me at <haichao.liu@ntu.edu.sg>. 
+
+<div class="notice--info" markdown="1">
+#### 🤖 2nd RoCo Challenge @ IROS 2026
+I am excited to invite students, researchers, and industry teams to join the **2nd Robotic Collaborative Assembly (RoCo) Challenge @ IROS 2026** in Pittsburgh, USA (Sep 27 - 30, 2026)!
+
+RoCo evaluates Physical AI systems on robotic assembly with two tracks:
+* 🏭 **Industrial Board Assembly** (connector insertion, wire routing, screw tightening, battery assembly, etc.)
+* 🧱 **Brick Assembly** (customized LEGO structure construction)
+
+If you are interested in dexterous manipulation, long-horizon reasoning, and generalizable robot intelligence, this challenge is for you.
+
+* 🚨 **Proposal deadline:** June 22, 2026
+* 🧪 **Simulation phase:** June - August 2026
+* 📍 **Onsite finals:** IROS 2026, Pittsburgh, USA
+* 🏆 **Prize pool:** $20K+ (tentative)
+
+Join us and register here: [🚀 2nd RoCo Challenge @ IROS 2026](https://rocochallenge.github.io/RoCo-IROS2026/)
+
+Quick links:
+* 📝 [Registration Form](https://forms.gle/d2NKNAE7dqSfYZB87)
+* ❓ [FAQ](https://rocochallenge.github.io/RoCo-IROS2026/faq.html)
+* 💬 [Discord Community](https://discord.gg/BvxEN5vAh3)
+</div>
 
 Research Interests
 ======
@@ -120,8 +143,9 @@ Selected Honors
 
 Community Services
 ======
-* **Peer Reviewer:** IEEE Transactions on Cybernetics, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Vehicular Technology, IEEE Robotics and Automation Magazine, Journal of Field Robotics, Aerospace Science and Technology, PLOS ONE, ICRA, IROS, IV Symposium, ITSC, ROBIO, IECON, etc.
+* **Peer Reviewer:** IEEE Transactions on Cybernetics, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Vehicular Technology, IEEE RA-L, IEEE Robotics and Automation Magazine, Journal of Field Robotics, Aerospace Science and Technology, PLOS ONE, ICRA, IROS, IV Symposium, ITSC, ROBIO, IECON, etc.
 * **Session Chair/Co-Chair:** ITSC 2025, IROS 2025
+* **Area Chair: [EIR 2026](https://www.eir2026.org/)"
 * **Committee Member:** [AIAAT 2026](https://aiaat.org/) (Kunming, China), [AMLDS 2026](https://amlds.site/) (Osaka, Japan)
 * **Overall PiC** for [1st Robotic Collaborative (RoCo) Assembling Challenge for Human-Centered Manufacturing](https://rocochallenge.github.io/RoCo2026/) at [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
 * **Other Services:** 
