@@ -72,6 +72,7 @@ Service and leadership
 ======
 * **Peer Reviewer:** IEEE Transactions on Cybernetics, IEEE Transactions on Intelligent Transportation Systems,  IEEE Transactions on Vehicular Technology, IEEE RA-L, IEEE Robotics and Automation Magazine, Journal of Field Robotics, Aerospace Science and Technology, PLOS ONE, IV Symposium, ICRA, IROS, ROBIO, IECON, etc.
 * **Session Chair/Co-Chair:** ITSC 2025, IROS 2025
+* **Area Chair:** [EIR 2026](https://www.eir2026.org/)
 * **Committee Member:** AIAAT 2026
 * **Overall PiC** for [1st Robotic Collaborative (RoCo) Assembling Challenge for Human-Centered Manufacturing](https://rocochallenge.github.io/RoCo2026/) at [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
 * **Other Services:** Member of NTU EEE Research Staff Association (RSA) (2025-), Vice President of HKUST-GSAA (2024-2025), Senate Committee Member of HKUST(GZ) (2024-2025)

@@ -145,7 +145,7 @@ Community Services
 ======
 * **Peer Reviewer:** IEEE Transactions on Cybernetics, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Vehicular Technology, IEEE RA-L, IEEE Robotics and Automation Magazine, Journal of Field Robotics, Aerospace Science and Technology, PLOS ONE, ICRA, IROS, IV Symposium, ITSC, ROBIO, IECON, etc.
 * **Session Chair/Co-Chair:** ITSC 2025, IROS 2025
-* **Area Chair: [EIR 2026](https://www.eir2026.org/)"
+* **Area Chair:** [EIR 2026](https://www.eir2026.org/)
 * **Committee Member:** [AIAAT 2026](https://aiaat.org/) (Kunming, China), [AMLDS 2026](https://amlds.site/) (Osaka, Japan)
 * **Overall PiC** for [1st Robotic Collaborative (RoCo) Assembling Challenge for Human-Centered Manufacturing](https://rocochallenge.github.io/RoCo2026/) at [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
 * **Other Services:** 
