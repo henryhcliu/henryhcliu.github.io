@@ -70,7 +70,7 @@ Teaching
   
 Service and leadership
 ======
-* **Peer Reviewer:** IEEE Transactions on Cybernetics, IEEE Transactions on Intelligent Transportation Systems,  IEEE Transactions on Vehicular Technology, IEEE RA-L, IEEE Robotics and Automation Magazine, Journal of Field Robotics, Aerospace Science and Technology, PLOS ONE, IV Symposium, ICRA, IROS, ROBIO, IECON, etc.
+* **Peer Reviewer:** IEEE Transactions on Cybernetics, IEEE Transactions on Intelligent Transportation Systems,  IEEE Transactions on Vehicular Technology, IEEE RA-L, Nature-Discover Robotics, IEEE Robotics and Automation Magazine, Journal of Field Robotics, Aerospace Science and Technology, PLOS ONE, IV Symposium, ICRA, IROS, ROBIO, IECON, etc.
 * **Session Chair/Co-Chair:** ITSC 2025, IROS 2025
 * **Area Chair:** [EIR 2026](https://www.eir2026.org/)
 * **Committee Member:** AIAAT 2026
