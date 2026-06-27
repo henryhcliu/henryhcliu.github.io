@@ -31,7 +31,7 @@ RoCo evaluates Physical AI systems on robotic assembly with two tracks:
 
 If you are interested in dexterous manipulation, long-horizon reasoning, and generalizable robot intelligence, this challenge is for you.
 
-* 🚨 **Proposal deadline:** June 22, 2026
+* 🚨 **Proposal deadline:** July 7, 2026
 * 🧪 **Simulation phase:** June - August 2026
 * 📍 **Onsite finals:** IROS 2026, Pittsburgh, USA
 * 🏆 **Prize pool:** $20K+ (tentative)
