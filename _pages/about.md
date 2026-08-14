@@ -31,7 +31,6 @@ RoCo evaluates Physical AI systems on robotic assembly with two tracks:
 
 If you are interested in dexterous manipulation, long-horizon reasoning, and generalizable robot intelligence, this challenge is for you.
 
-* 🚨 **Proposal deadline:** July 12, 2026
 * 🧪 **Simulation phase:** June - August 2026
 * 📍 **Onsite finals:** IROS 2026, Pittsburgh, USA
 * 🏆 **Prize pool:** $20K+ (tentative)
@@ -149,6 +148,6 @@ Community Services
 * **Committee Member:** [AIAAT 2026](https://aiaat.org/) (Kunming, China), [AMLDS 2026](https://amlds.site/) (Osaka, Japan)
 * **Overall PiC** for [1st Robotic Collaborative (RoCo) Assembling Challenge for Human-Centered Manufacturing](https://rocochallenge.github.io/RoCo2026/) at [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
 * **Other Services:** 
-  * Member of NTU EEE Research Staff Association (RSA) (2025-)
+  * President of NTU EEE Research Staff Association (RSA) (2026-)
   * Vice President of HKUST-GSAA (2024-2025)
   * Senate Committee Member of HKUST(GZ) (2024-2025)
