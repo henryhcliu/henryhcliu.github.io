@@ -18,25 +18,22 @@ I received my PhD from [The Hong Kong University of Science and Technology](http
 I welcome research discussions and potential collaborations. Please feel free to contact me at <haichao.liu@ntu.edu.sg>.
 
 <div class="notice--info" markdown="1">
-#### 🤖 2nd RoCo Challenge @ IROS 2026
-I am excited to invite students, researchers, and industry teams to join the **2nd Robotic Collaborative Assembly (RoCo) Challenge @ IROS 2026** in Pittsburgh, USA (Sep 27 - 30, 2026)!
+#### 🤖 SG EAI Challenge @ RoboSG! 2027
+I invite students, researchers, and industry teams to participate in the **Singapore Embodied AI Challenge for Manufacturing (SG EAI Challenge)**, which we are organizing at **RoboSG! 2027 in Singapore**!
 
-RoCo evaluates Physical AI systems on robotic assembly with two tracks:
-* 🏭 **Industrial Board Assembly** (connector insertion, wire routing, screw tightening, battery assembly, etc.)
-* 🧱 **Brick Assembly** (customized LEGO structure construction)
+Organized by Nanyang Technological University, A*STAR and the National Robotics Programme, with Micron Technology as title sponsor, the challenge invites teams to develop robotic assembly systems that bring perception, reasoning, planning and physical action together for manufacturing.
 
-If you are interested in dexterous manipulation, long-horizon reasoning, and generalizable robot intelligence, this challenge is for you.
+* 🧪 **Online simulation phase:** October 1 - December 31, 2026
+* 📍 **Onsite grand finals:** March 20, 2027, Singapore, at RoboSG! 2027
+* 🛠️ **Resources:** Simulation platform, baselines and datasets for development; standard robotic platforms provided at the onsite finals
+* 🏆 **Awards:** Monetary awards for the top six teams; amounts and conditions will be confirmed in the official rules
 
-* 🧪 **Simulation phase:** June - August 2026
-* 📍 **Onsite finals:** IROS 2026, Pittsburgh, USA
-* 🏆 **Prize pool:** $20K+ (tentative)
-
-Join us and register here: [🚀 2nd RoCo Challenge @ IROS 2026](https://rocochallenge.github.io/RoCo-IROS2026/)
+If you work on dexterous manipulation, long-horizon reasoning or sim-to-real robot learning, join us and help advance embodied AI for manufacturing!
 
 Quick links:
-* 📝 [Registration Form](https://forms.gle/d2NKNAE7dqSfYZB87)
-* ❓ [FAQ](https://rocochallenge.github.io/RoCo-IROS2026/faq.html)
-* 💬 [Discord Community](https://discord.gg/BvxEN5vAh3)
+* 🌐 [Official website and challenge details](https://nrp.gov.sg/SGEAIchallenge/)
+* 📝 [Register your interest](https://forms.cloud.microsoft/pages/responsepage.aspx?id=P_nIomsSlkWjYIlBqJhLCGllVZSXbZJJvEcXlYZXdCZUNTBHQjVIQjNWTFZPV1E1TVFGSjBNOTI4Qi4u&route=shorturl)
+* ❓ [Participation FAQ](https://nrp.gov.sg/SGEAIchallenge/faq/)
 </div>
 
 Research Interests
@@ -58,6 +55,7 @@ Academic and Professional Service
 * **Area Chair:** [EIR 2026](https://www.eir2026.org/)
 * **Committee Member:** [AIAAT 2026](https://aiaat.org/) (Kunming, China), [AMLDS 2026](https://amlds.site/) (Osaka, Japan), [AMLDS 2027](https://amlds.site/index.html) (Aizu-Wakamatsu, Japan)
 * **Overall PiC** for [1st Robotic Collaborative (RoCo) Assembling Challenge for Human-Centered Manufacturing](https://rocochallenge.github.io/RoCo2026/) at [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
+* **Organizer** of the [2nd Robotic Collaborative Assembly (RoCo) Challenge](https://rocochallenge.github.io/RoCo-IROS2026/) at IROS 2026 (September 27 - 30, 2026, Pittsburgh, USA)
 * **Other Services:**
   * President of NTU EEE Research Staff Association (RSA)
   * Vice President of HKUST-GSAA

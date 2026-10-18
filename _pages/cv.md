@@ -76,4 +76,5 @@ Service and leadership
 * **Area Chair:** [EIR 2026](https://www.eir2026.org/)
 * **Committee Member:** AIAAT 2026, AMLDS 2026, AMLDS 2027
 * **Overall PiC** for [1st Robotic Collaborative (RoCo) Assembling Challenge for Human-Centered Manufacturing](https://rocochallenge.github.io/RoCo2026/) at [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
+* **Organizer** of the [2nd Robotic Collaborative Assembly (RoCo) Challenge](https://rocochallenge.github.io/RoCo-IROS2026/) at IROS 2026 (September 27 - 30, 2026, Pittsburgh, USA)
 * **Other Services:** President of NTU EEE Research Staff Association (RSA) (2025-), Vice President of HKUST-GSAA (2024-2025)
