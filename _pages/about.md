@@ -52,7 +52,7 @@ with the following technologies:
 
 Academic and Professional Service
 ======
-* **Peer Reviewer:** IEEE Transactions on Cybernetics, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Vehicular Technology, IEEE RA-L, Nature-Discover Robotics, IEEE Robotics and Automation Magazine, Journal of Field Robotics, Aerospace Science and Technology, PLOS ONE, ICRA, IROS, IV Symposium, ITSC, ROBIO, IECON, etc.
+* **Peer Reviewer:** The International Journal of Robotics Research (IJRR), IEEE Transactions on Cybernetics, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Vehicular Technology, IEEE RA-L, Nature-Discover Robotics, IEEE Robotics and Automation Magazine, Journal of Field Robotics, Aerospace Science and Technology, PLOS ONE, Robotics: Science and Systems (RSS), ICRA, IROS, IV Symposium, ITSC, ROBIO, IECON, etc.
 * **Senior Reviewer:** IEEE Robotics and Automation Society Young Reviewer Program (YRP)
 * **Session Chair/Co-Chair:** ITSC 2025, IROS 2025, IROS 2026
 * **Area Chair:** [EIR 2026](https://www.eir2026.org/)
@@ -61,7 +61,6 @@ Academic and Professional Service
 * **Other Services:**
   * President of NTU EEE Research Staff Association (RSA)
   * Vice President of HKUST-GSAA
-  * Senate Committee Member of HKUST(GZ)
 
 Publications
 ======
@@ -145,7 +144,6 @@ Internship
 Selected Honors
 ======
 * **Judge Appreciation Certificate**, Ministry of Education of Singapore
-* **Certificate of Appreciation**, Senate of HKUST(GZ)
 * **Outstanding Volunteer Award**, CyberC, IEEE
 * **Winning Team (1st place) of the Venture Capital on Campus**, HKSTP
 * **HKUST Postgraduate Scholarship (Guangzhou Pilot Scheme)**, Hong Kong University of Science and Technology
