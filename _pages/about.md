@@ -9,7 +9,7 @@ redirect_from:
 description: The homepage of Haichao Liu, Postdoctoral Research Fellow at Nanyang Technological University, researching Autonomous Systems, robotics, and embodied AI.
 ---
 
-Welcome! I'm **Haichao Liu** (刘海超), a Postdoctoral Research Fellow in the [Perception and embodied INtElligence (PINE) Lab](https://pine-lab-ntu.github.io/) at the School of EEE, [Nanyang Technological University](https://www.ntu.edu.sg/), supervised by Prof. [Ziwei Wang](https://scholar.google.com/citations?user=cMTW09EAAAAJ). My research focuses on **Autonomous Systems** and embodied intelligence, connecting multimodal reasoning with decision-making, motion planning, control, and real-world robotic interaction.
+Welcome! I'm **Haichao Liu** (刘海超), a Postdoctoral Research Fellow in the [Perception and embodied INtElligence (PINE) Lab](https://pine-lab-ntu.github.io/) at the School of EEE, [Nanyang Technological University](https://www.ntu.edu.sg/), supervised by Prof. [Ziwei Wang](https://scholar.google.com/citations?user=cMTW09EAAAAJ). My research focuses on robotics and physical intelligence, connecting multimodal reasoning with decision-making, motion planning, control, and real-world robotic interaction.
 
 I contribute to academic leadership and professional service as an area chair, senior reviewer, session chair/co-chair, committee member, and organizer of international robotics challenges. Previously, I was a visiting scholar at the [National University of Singapore](https://www.nus.edu.sg/) under Prof. [Tong Heng Lee](https://scholar.google.com.sg/citations?user=dP8oLwYAAAAJ) and a part-time research scientist with the Autonomous Systems and Robotics Group at [A*STAR](https://www.a-star.edu.sg/) ARTC.
 
@@ -66,14 +66,14 @@ Publications
 ### Featured Publications
 
 {% assign featured_publication_paths = "/publication/2026-06-arXiv|/publication/2026-02-arXiv|/publication/2026-03-arXiv-1|/publication/2025-06-IROS-2|/publication/2025-06-IROS-1|/publication/2025-03-T-ITS|/publication/2024-04-T-IV" | split: "|" %}
-<ul>
+<div class="publication-list" role="list">
   {% for featured_path in featured_publication_paths %}
     {% assign post = site.publications | where: "permalink", featured_path | first %}
     {% if post %}
-      {% include archive-single-cv.html show_tags=false %}
+      {% include archive-single-cv.html show_tags=false show_image=true %}
     {% endif %}
   {% endfor %}
-</ul>
+</div>
 
 ### Complete Publication List
 
@@ -113,11 +113,11 @@ Publications
 <div class="publication-categories">
   <section class="publication-category publication-category--all" data-publication-tag="all">
     <h3 id="all-papers">All Papers</h3>
-    <ul>
+    <div class="publication-list" role="list">
       {% for post in site.publications reversed %}
-        {% include archive-single-cv.html show_tags=false %}
+        {% include archive-single-cv.html show_tags=false show_image=true %}
       {% endfor %}
-    </ul>
+    </div>
   </section>
 
   {% for candidate in publication_tag_candidates %}
@@ -125,11 +125,11 @@ Publications
     {% if tagged_publications.size > 0 %}
       <section class="publication-category" data-publication-tag="{{ candidate | slugify }}">
         <h3 id="{{ candidate | slugify }}">{% if candidate == "Autonomous Systems" %}{{ candidate }}{% else %}{{ candidate | capitalize }}{% endif %}</h3>
-        <ul>
+        <div class="publication-list" role="list">
           {% for post in tagged_publications reversed %}
-            {% include archive-single-cv.html show_tags=false %}
+            {% include archive-single-cv.html show_tags=false show_image=true %}
           {% endfor %}
-        </ul>
+        </div>
       </section>
     {% endif %}
   {% endfor %}

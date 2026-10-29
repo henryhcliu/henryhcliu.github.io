@@ -1,0 +1,7 @@
+{% assign publication_image = site.data.publication_images[post.permalink] %}
+{% if publication_image %}
+  <img class="publication-entry__image"
+       src="{{ publication_image.image | relative_url }}"
+       alt="{{ publication_image.alt | escape }}"
+       width="180" height="120" loading="lazy" decoding="async">
+{% endif %}

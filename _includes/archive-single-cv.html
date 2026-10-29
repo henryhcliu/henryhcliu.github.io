@@ -18,9 +18,14 @@
   {% assign show_tags = true %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+<div class="{{ include.type | default: "list" }}__item{% if include.show_image %} publication-list__item{% endif %}"{% if include.show_image %} role="listitem"{% endif %}>
+  <article class="archive__item{% if include.show_image %} publication-entry publication-entry--compact{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.show_image %}
+      {% include publication-image.html %}
+      <div class="publication-entry__body">
+    {% else %}
     <li>
+    {% endif %}
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -50,6 +55,10 @@
       {% endfor %}
     </p>
     {% endif %}
-    </li>
+    {% if include.show_image %}
+      </div>
+    {% else %}
+      </li>
+    {% endif %}
  </article>
 </div>

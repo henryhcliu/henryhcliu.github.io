@@ -20,11 +20,11 @@ Education
 
 - Visiting Scholar, **National University of Singapore**, 2025
 
-- M.E. from the State Key Laboratory of Robotics and Systems, **Harbin Institute of Technology**, 2020-2022
+- M.E. from the State Key Laboratory of Robotics and Systems, **Harbin Institute of Technology**, 2022
 
 - Visiting Student, **University of Sydney**, 2021
 
-- B.S. in Robot Engineering, **Northeastern University**, 2016-2020
+- B.S. in Robot Engineering, **Northeastern University**, 2020
 
 Research Interests
 ======

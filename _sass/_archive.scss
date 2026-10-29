@@ -229,6 +229,65 @@
 
 
 /*
+   Publications
+   ========================================================================== */
+
+/* Share one asset on the homepage and Publications page. */
+.list__item.publication-list__item {
+  padding-right: 0;
+}
+
+.publication-entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin: 1.25rem 0;
+  min-width: 0;
+}
+
+.publication-entry__image {
+  display: block;
+  flex: 0 0 auto;
+  width: 180px;
+  height: 120px;
+  max-width: none;
+  margin: 0;
+  object-fit: fill;
+  border-radius: $border-radius;
+}
+
+.publication-entry--compact .publication-entry__image {
+  width: 3cm;
+  height: 2cm;
+}
+
+.publication-entry__body {
+  flex: 1 1 0%;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.publication-entry .publication-entry__body .archive__item-title {
+  margin-top: 0;
+}
+
+@media (max-width: 600px) {
+  .publication-entry {
+    gap: 0.75rem;
+  }
+
+  /* Keep the larger thumbnails at their full size and give text a readable line length. */
+  .publication-entry--full {
+    flex-direction: column;
+  }
+
+  .publication-entry--full .publication-entry__body {
+    flex-basis: auto;
+    width: 100%;
+  }
+}
+
+/*
    Features
    ========================================================================== */
 

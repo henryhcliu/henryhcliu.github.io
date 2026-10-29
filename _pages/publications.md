@@ -28,7 +28,7 @@ author_profile: true
     <section class="publication-category publication-category--all" data-publication-tag="all">
       <h2 id="all-papers" class="archive__subtitle">All Papers</h2>
       {% for post in site.publications reversed %}
-        {% include archive-single.html%}
+        {% include archive-single.html show_image=true %}
       {% endfor %}
     </section>
   {% endif %}
@@ -39,7 +39,7 @@ author_profile: true
       <section class="publication-category" data-publication-tag="{{ candidate | slugify }}">
         <h2 id="{{ candidate | slugify }}" class="archive__subtitle">{% if candidate == "Autonomous Systems" %}{{ candidate }}{% else %}{{ candidate | capitalize }}{% endif %}</h2>
         {% for post in tagged_publications reversed %}
-          {% include archive-single.html%}
+          {% include archive-single.html show_image=true %}
         {% endfor %}
       </section>
     {% endif %}

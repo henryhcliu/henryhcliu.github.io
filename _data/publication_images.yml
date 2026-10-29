@@ -1,0 +1,515 @@
+# Shared thumbnail assets, provenance, and fallback research notes.
+---
+"/publication/2021-07-CYBER":
+  title: Research on Robot Visual Grabbing Based on Mechanism Analysis
+  alt: Robot arm visually identifying and grasping colored fruit in the paper’s laboratory
+    experiment.
+  source: https://ieee-cyber.org/2021/wp-content/uploads/2021/07/Cyber21-Digest-V3_0s.pdf
+  page: https://ieeexplore.ieee.org/document/9588176
+  figure: Visual grabbing result image in the CYBER 2021 digest, PDF page 38 (printed
+    page 31); extracted image only.
+  notes: Checked author publication page, IEEE publisher, ResearchGate and public
+    conference digest. Full paper not publicly downloadable; the official digest contains
+    the correct authors/title and this experimental photo montage. Native figure is
+    136 × 78 pixels, retained without upsampling.
+  fallback: false
+  image: "/images/publications/2021-07-CYBER.webp"
+"/publication/2021-10-CAC":
+  title: Solving a Multi-robot Search Problem with Bionic Sarsa Algorithm and Artificial
+    Potential Field
+  alt: Generic multi-robot navigation illustration with paths around obstacles.
+  source: Original SVG illustration created for this website; not a paper figure.
+  page: https://ieeexplore.ieee.org/document/9728613
+  figure: No publicly accessible representative figure found.
+  fallback: true
+  notes: Exact-title searches, author publication page, IEEE publisher and stamp/full-text
+    endpoints, ResearchGate, Semantic Scholar open-access metadata, conference proceedings
+    and the author’s linked source repository were checked. IEEE challenged access;
+    Semantic Scholar marks the PDF CLOSED and has no OA URL. Author repository https://github.com/henryhcliu/Multi-agent-Path-Planning-with-Reinforcement-Learning-and-Artificial-Potential-Field
+    contains only code and tiny UI/logo sprites, no suitable paper figure. Generic
+    fallback required.
+  image: "/images/publications/robot-navigation-illustration.svg"
+"/publication/2022-12-AppliedIntelligence":
+  title: Bio-inspired robot swarm path formation with local sensor scope
+  alt: Robot-chain network connecting yellow targets around gray obstacles on a grid
+    map.
+  source: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10489-022-04356-9/MediaObjects/10489_2022_4356_Fig1_HTML.png
+  page: https://link.springer.com/article/10.1007/s10489-022-04356-9
+  figure: Figure 1, robot-swarm path-formation schematic; grid diagram retained and
+    text legend excluded.
+  notes: Checked publisher article and its public figures, author listing and ResearchGate.
+    Compared publisher figures 1, 2, 3, 6–10 and 15–18 visually; Fig. 1 communicates
+    the target task most clearly at thumbnail size.
+  fallback: false
+  image: "/images/publications/2022-12-AppliedIntelligence.webp"
+"/publication/2023-09-ITSC":
+  title: Real-time parallel trajectory optimization with spatiotemporal safety constraints
+    for autonomous driving in congested traffic
+  alt: Parallel candidate trajectories help an autonomous car pass congested three-lane
+    traffic.
+  source: https://arxiv.org/pdf/2309.05298
+  page: https://arxiv.org/abs/2309.05298
+  figure: Figure 1 on PDF page 1, congested traffic and parallel candidate trajectories.
+  notes: Confirmed exact title and authors on arXiv; downloaded full text and visually
+    compared overview schematic, system diagram and experimental snapshots. Cropped
+    only Fig. 1.
+  fallback: false
+  image: "/images/publications/2023-09-ITSC.webp"
+"/publication/2023-12-ROBIO":
+  title: Integrated behavior planning and motion control for autonomous vehicles with
+    traffic rules compliance
+  alt: Four CARLA roundabout snapshots show rule-compliant autonomous vehicle motion.
+  source: https://arxiv.org/pdf/2304.01041
+  page: https://arxiv.org/abs/2304.01041
+  figure: Figure 3 on PDF page 5, roundabout scenario (first four-keyframe panel).
+  notes: Checked IEEE publication entry, author publication listing and arXiv full
+    text; reviewed all five figures. Selected the successful roundabout experiment
+    panel and excluded caption/body text.
+  fallback: false
+  image: "/images/publications/2023-12-ROBIO.webp"
+"/publication/2024-02-ICRA":
+  title: Parallel optimization with hard safety constraints for cooperative planning
+    of connected autonomous vehicles
+  alt: CARLA roundabout experiment compares cooperative planning with a baseline at
+    three times.
+  source: https://arxiv.org/pdf/2303.03090
+  page: https://arxiv.org/abs/2303.03090
+  figure: Figure 3 on PDF page 6, cooperative roundabout planning versus baseline.
+  notes: Confirmed exact title and authors on arXiv and conference proceedings; reviewed
+    full PDF and selected the six experimental roundabout snapshots rather than mathematical
+    diagrams.
+  fallback: false
+  image: "/images/publications/2024-02-ICRA.webp"
+"/publication/2024-02-RA-L":
+  title: Geometry-aware safety-critical local reactive controller for robot navigation
+    in unknown and cluttered environments
+  alt: A quadruped robot navigates a cluttered laboratory within a green locally safe
+    region.
+  source: https://arxiv.org/pdf/2310.05547
+  page: https://arxiv.org/abs/2310.05547
+  figure: Figure 1 on PDF page 1, geometry-aware navigation experiment overview.
+  notes: Checked IEEE publisher, author/collaborator websites and arXiv; full PDF
+    confirms matching title/authors. Reviewed geometric schematics and experimental
+    figures; selected the clear laboratory photo with the safe-region overlay.
+  fallback: false
+  image: "/images/publications/2024-02-RA-L.webp"
+"/publication/2024-03-IV24":
+  title: Incremental learning-based real-time trajectory prediction for autonomous
+    driving via sparse Gaussian process regression
+  alt: Generic autonomous-driving illustration with cars, sensors, and planned routes.
+  source: Original SVG illustration created for this website; not a paper figure.
+  page: https://ieeexplore.ieee.org/document/10588687
+  figure: No publicly accessible representative figure found.
+  fallback: true
+  notes: Exact-title web and image searches, author paper/talk pages, Jun Ma publication
+    list, HKUST research portal, IEEE publisher and stamp/full-text endpoints, ResearchGate,
+    Semantic Scholar metadata, arXiv search and conference proceedings were checked.
+    ResearchGate explicitly reports no full text; Semantic Scholar marks PDF CLOSED
+    with no OA URL; author/institution pages contain bibliographic text only. No correct-paper
+    image could be verified. Generic fallback required.
+  image: "/images/publications/autonomous-systems-illustration.svg"
+"/publication/2024-04-T-IV":
+  title: Improved consensus ADMM for cooperative motion planning of large-scale connected
+    autonomous vehicles with limited communication
+  alt: Connected autonomous cars form overlapping communication groups at an urban
+    intersection.
+  source: https://arxiv.org/pdf/2401.09032
+  page: https://henryhcliu.github.io/icadmm_cmp_carla/
+  figure: Figure 1 on PDF page 1, large-scale cooperative driving and local communication
+    subgraphs.
+  notes: Checked author’s dedicated project page and arXiv full text, confirming matching
+    title/authors. Compared overview, communication schematics and CARLA experimental
+    figures. Selected the overview intersection figure with colored local subgraphs.
+  fallback: false
+  image: "/images/publications/2024-04-T-IV.webp"
+"/publication/2024-10-ROBIO-1":
+  title: Real-Time Teleoperation in Motion Mapping for Medical Robot Based on Robot
+    Manipulator and Haptic Device
+  alt: UR5 medical teleoperation setup uses a Geomagic Touch haptic device and a foam
+    patient model.
+  source: https://ieee-robio.org/2024/wp-content/uploads/2024/12/ROBIO24-DigestBook-V2_0.pdf
+  page: https://ieeexplore.ieee.org/document/10907567/
+  figure: Figure 1, Foam to Simulate Human’s Texture, official ROBIO 2024 digest PDF
+    page 105 (printed page 102). Photograph region only, with small surrounding labels
+    excluded.
+  notes: Checked IEEE publisher, exact-title search, author source repository https://github.com/primpunn/Master
+    and official conference digest. Repo confirms UR5/Geomagic system but has no image;
+    digest’s matching title/authors identify this exact experimental setup. Extracted
+    its native 302 × 193 figure and cropped to the 193 × 151 photograph region to
+    improve thumbnail visibility.
+  fallback: false
+  image: "/images/publications/2024-10-ROBIO-1.webp"
+"/publication/2024-10-ROBIO-2":
+  title: Enhance Planning with Physics-informed Safety Controller for End-to-end Autonomous
+    Driving
+  alt: CARLA comparison shows a safety controller guiding an autonomous car through
+    a junction deadlock.
+  source: https://arxiv.org/pdf/2405.00316
+  page: https://arxiv.org/abs/2405.00316
+  figure: Figure 5 on PDF page 6, neural planner deadlock versus FusionAssurance guided
+    trajectory.
+  notes: Checked author-hosted conference PDF, official ROBIO digest and arXiv full
+    text; confirmed exact paper. Visually compared architecture and experimental figures
+    and selected the clear two-panel T-junction experiment.
+  fallback: false
+  image: "/images/publications/2024-10-ROBIO-2.webp"
+"/publication/2024-11-TVT":
+  title: Synergizing Decision Making and Trajectory Planning Using Two-Stage Optimization
+    for Autonomous Vehicles
+  alt: A green autonomous vehicle changes lanes among surrounding cars in a CARLA
+    road simulation.
+  source: https://arxiv.org/pdf/2411.18974
+  page: https://arxiv.org/abs/2411.18974
+  figure: Figure 7 on PDF page 12, lane-selection experiment; lane-change keyframe
+    at 8.5 seconds.
+  notes: Confirmed exact title/authors on arXiv; reviewed full PDF including two-stage
+    planner diagram and simulation results. Cropped the single 8.5-second CARLA keyframe
+    from Fig. 7 to make the ego vehicle and maneuver recognizable at thumbnail size.
+  fallback: false
+  image: "/images/publications/2024-11-TVT.webp"
+"/publication/2025-01-arXiv":
+  title: 'CoDriveVLM: VLM-Enhanced Urban Cooperative Dispatching and Motion Planning
+    for Future Autonomous Mobility on Demand Systems'
+  image: "/images/publications/2025-01-arXiv.webp"
+  alt: CoDriveVLM diagram linking passenger requests, vehicle dispatching, and optimized
+    routes.
+  source: https://arxiv.org/html/2501.06132v1/problem_demonstration_v1.3.png
+  page: https://arxiv.org/abs/2501.06132
+  figure: 'Figure 1: personalized autonomous mobility-on-demand dispatching overview.'
+  fallback: false
+  notes: Checked exact-title web search, author CoDriveVLM GitHub repository, arXiv
+    abstract, HTML figures, and full-text PDF. Chose a compact overview without the
+    text-heavy prompt panels.
+"/publication/2025-02-ICRA":
+  title: Robot Navigation in Unknown and Cluttered Workspace with Dynamical System
+    Modulation in Starshaped Roadmap
+  image: "/images/publications/2025-02-ICRA.webp"
+  alt: Starshaped roadmap and a mobile robot navigating between obstacles in a real
+    experiment.
+  source: https://arxiv.org/html/2403.11484v3/fig1_a.png
+  page: https://arxiv.org/abs/2403.11484
+  figure: 'Figure 1 panels (a) and (b): dynamic roadmap and physical robot demonstration.'
+  fallback: false
+  notes: Checked author starshaped_roadmap GitHub repository, arXiv abstract, HTML,
+    and full-text PDF. Cropped overview to its roadmap and real-world panels, removing
+    the small-text free-space comparisons.
+"/publication/2025-03-T-ITS":
+  title: 'UDMC: Unified Decision-Making and Control Framework for Urban Autonomous
+    Driving with Motion Prediction of Traffic Participants'
+  image: "/images/publications/2025-03-T-ITS.webp"
+  alt: UDMC autonomous vehicle merging into a busy roundabout with its planned trajectory
+    highlighted.
+  source: https://arxiv.org/html/2501.02530v1/Images/page1_1.png
+  page: https://arxiv.org/abs/2501.02530
+  figure: 'Figure 1(a): merging into the roundabout in congested traffic.'
+  fallback: false
+  notes: Checked IEEE publisher metadata, author udmc_carla GitHub repository, and
+    matching arXiv HTML and PDF (2501.02530). Selected the simulation result over
+    the dense framework diagram.
+"/publication/2025-06-IROS-1":
+  title: 'LMMCoDrive: Cooperative Driving with Large Multimodal Models'
+  image: "/images/publications/2025-06-IROS-1.webp"
+  alt: LMMCoDrive urban mobility scenario beside its bird’s-eye view of vehicles and
+    passenger requests.
+  source: https://arxiv.org/html/2409.11981v1/bev_v1.1.png
+  page: https://arxiv.org/abs/2409.11981
+  figure: 'Figure 1: urban AMoD scene and its corresponding BEV abstraction.'
+  fallback: false
+  notes: Checked author LMMCoDrive GitHub repository, arXiv abstract, HTML, and full-text
+    PDF. The first figure directly visualizes the method’s multimodal vehicle/request
+    representation.
+"/publication/2025-06-IROS-2":
+  title: 'RoboDexVLM: Visual Language Model-Enabled Task Planning and Motion Control
+    for Dexterous Robot Manipulation'
+  image: "/images/publications/2025-06-IROS-2.webp"
+  alt: RoboDexVLM robotic arm and dexterous hand manipulating fruit on a tabletop.
+  source: https://arxiv.org/html/2503.01616v1/frameTFv2.png
+  page: https://henryhcliu.github.io/robodexvlm/
+  figure: 'Figure 3: robot manipulation system settings with UR5, Inspire Hand, and
+    tabletop objects.'
+  fallback: false
+  notes: Checked author project page, its static demonstration images, IEEE publisher
+    abstract, arXiv abstract, HTML, and full-text PDF. Selected the system setup because
+    the hand and objects remain recognizable at thumbnail size.
+"/publication/2025-07-arXiv":
+  title: 'VLM-UDMC: VLM-Enhanced Unified Decision-Making and Motion Control for Urban
+    Autonomous Driving'
+  image: "/images/publications/2025-07-arXiv.webp"
+  alt: VLM-UDMC car approaching a pedestrian at an urban junction with four onboard
+    camera views.
+  source: https://arxiv.org/html/2507.15266v1/Images/overallDemo_v1.1.png
+  page: https://arxiv.org/abs/2507.15266
+  figure: 'Figure 1: unsignalized intersection and multi-camera scene understanding
+    demonstration.'
+  fallback: false
+  notes: Checked author vlmudmc GitHub repository, arXiv abstract, HTML, and full-text
+    PDF. Used the scene demonstration rather than the dense prompting and framework
+    panels.
+"/publication/2025-09-T-ITS":
+  title: Diffeomorphism-Transformed Iterative Linear Quadratic Regulator for Constrained
+    Motion Planning in Autonomous Driving
+  image: "/images/publications/autonomous-systems-illustration.svg"
+  alt: Generic autonomous-driving illustration with cars, sensors, and planned routes.
+  source: Original SVG illustration created for this website; not a paper figure.
+  page: https://ieeexplore.ieee.org/document/11157916
+  figure: Generic fallback; no publicly accessible paper figure was found.
+  fallback: true
+  notes: Searched exact title, DTiLQR name, authors, arXiv, author/project GitHub
+    sources, publisher IEEE record, HKUST research portal and institutional repository,
+    and full-text/PDF results. HKUST portal offers only the DOI; no public manuscript/project
+    image was located. IEEE article required bot verification, and PDF plus figure
+    media endpoints returned 418. DBLP identifies the article as closed access. Fallback
+    is explicitly generic, not a claimed paper figure.
+"/publication/2025-11-AIT":
+  title: 'Human-like Driving: A Comprehensive Survey from Depth and Breadth'
+  image: "/images/publications/2025-11-AIT.webp"
+  alt: Illustration of human-like and conventional autonomous vehicles interacting
+    with people at an urban intersection.
+  source: https://ars.els-cdn.com/content/image/1-s2.0-S305086062500033X-gr1.jpg
+  page: https://www.sciencedirect.com/science/article/abs/pii/S305086062500033X
+  figure: 'Figure 1: effects of lacking human-like characteristics in autonomous vehicles.'
+  fallback: false
+  notes: Checked exact-title web search and indexed full publisher text/captions.
+    Direct publisher article requests returned 403, but Elsevier’s public image CDN
+    supplied the matching Figure 1; also checked Figure 2 overview before selecting
+    the more visual street scene.
+"/publication/2025-11-ITSC":
+  title: An Autonomous Mobility on Demand Platform Supporting Cooperative Driving
+    with Visual Context Generation for LMMs
+  image: "/images/publications/2025-11-ITSC.webp"
+  alt: CoDriveVis bird’s-eye visualization of connected vehicles driving through a
+    roundabout.
+  source: https://raw.githubusercontent.com/henryhcliu/CoDriveVis/main/bev_images/demo.png
+  page: https://github.com/henryhcliu/CoDriveVis
+  figure: 'Author project asset bev_images/demo.png: roundabout with cooperative vehicles.'
+  fallback: false
+  notes: Checked exact-title web search, IEEE publication record, author website entry,
+    and linked CoDriveVis source repository. The repository contains the actual platform’s
+    BEV demonstration image; used this project asset because no public full-paper
+    figure was located.
+"/publication/2025-12-techrxiv-rlvla-survey":
+  title: A Survey on Reinforcement Learning of Vision-Language-Action Models for Robotic
+    Manipulation
+  image: "/images/publications/2025-12-techrxiv.webp"
+  alt: Generative vision-language-action architecture with a diffusion or flow-matching
+    action head and reinforcement learning.
+  source: https://raw.githubusercontent.com/Denghaoyuan123/Awesome-RL-VLA/main/action.png
+  page: https://github.com/Denghaoyuan123/Awesome-RL-VLA
+  figure: 'Figure 2, Generative Models panel: sequence-level RL optimization of actions.'
+  fallback: false
+  notes: Checked TechRxiv paper listing, exact-title search, official author GitHub
+    repository, and its downloadable matching full-text PDF. Cropped the author-provided
+    action.png to the generative-model panel to avoid shrinking the full portrait
+    diagram.
+"/publication/2026-01-ICRA":
+  title: 'VLM-E2E: Enhancing End-to-End Autonomous Driving with Multimodal Driver
+    Attention Fusion'
+  image: "/images/publications/2026-01-ICRA.webp"
+  alt: VLM-E2E driving results with surround-camera images, planned trajectories,
+    and colored cost heatmaps.
+  source: https://arxiv.org/html/2502.18042v2/fig/results/planning.jpg
+  page: https://arxiv.org/abs/2502.18042
+  figure: 'Figure 4: qualitative planning analysis with multi-view inputs, planned
+    trajectory, and costmap.'
+  fallback: false
+  notes: Checked exact-title web search, arXiv abstract, HTML, and full-text PDF.
+    Compared the overview diagram with the qualitative results and selected the result
+    figure for its recognizable visual inputs and heatmaps.
+"/publication/2026-02-arXiv":
+  title: 'UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational
+    Graph'
+  image: "/images/publications/2026-02-arXiv.webp"
+  alt: UniManip robot completing a tabletop sorting action in two consecutive experimental
+    frames.
+  source: https://arxiv.org/html/2602.13086v2/exp3_demo_final.png
+  page: https://arxiv.org/abs/2602.13086
+  figure: 'Figure 12: cropped two keyframes of the trash-sorting demonstration.'
+  fallback: false
+  notes: Checked author UniManip project page and arXiv abstract, HTML, and full-text
+    PDF. The same arXiv identifier has a revised title in v2; authors and identifier
+    confirm it is the listed paper. Cropped two adjacent experiment frames rather
+    than displaying all 32 tiny frames.
+"/publication/2026-03-arXiv-1":
+  title: 'RoCo Challenge at AAAI 2026: Benchmarking Robotic Collaborative Manipulation
+    for Assembly Towards Industrial Automation'
+  image: "/images/publications/2026-03-arXiv-1.webp"
+  alt: Dual robot grippers assembling small planetary gears on a carrier in the RoCo
+    Challenge.
+  source: https://arxiv.org/html/2603.15469v1/figs/task1.png
+  page: https://arxiv.org/abs/2603.15469
+  figure: 'Figure 5(a), final keyframe: Task 1 assembly of three gears.'
+  fallback: false
+  notes: Checked exact-title web search, arXiv abstract, HTML and full-text PDF, and
+    project link (returned 404). Compared hardware, component, and assembly figures.
+    Cropped the last physical assembly keyframe to emphasize the grippers and gears.
+"/publication/2026-03-arXiv-2":
+  title: 'MoE-ACT: Scaling Multi-Task Bimanual Manipulation with Sparse Language-Conditioned
+    Mixture-of-Experts Transformers'
+  image: "/images/publications/2026-03-arXiv-2.webp"
+  alt: Real-world dual-arm robot setup for the MoE-ACT bottle handover task.
+  source: https://arxiv.org/html/2603.15265v1/Real_world_task_setup_a.png
+  page: https://arxiv.org/abs/2603.15265
+  figure: Real-world task setup, bottle handover subfigure
+  fallback: false
+  notes: Exact title and authors verified on arXiv. Checked linked MoE-ACT project
+    page (coming soon), HTML figures, and full PDF; selected the real-world task photograph
+    over the text-heavy architecture.
+"/publication/2026-04-T-ITS":
+  title: An Intention-Driven Lane Change Framework Considering Heterogeneous Dynamic
+    Cooperation in Mixed-Traffic Environments
+  image: "/images/publications/2026-04-T-ITS.webp"
+  alt: Cooperation-aware lane change case study showing the ego vehicle and surrounding
+    traffic trajectories.
+  source: https://arxiv.org/html/2509.22550v1/case_ours.png
+  page: https://arxiv.org/abs/2509.22550
+  figure: Figure 5 qualitative lane change result; two successive snapshots cropped
+    from the proposed-method panel
+  fallback: false
+  notes: Title and authors verified against arXiv preprint and IEEE DOI listing (10.1109/TITS.2026.3690192).
+    Checked arXiv HTML and full PDF; cropped two trajectory snapshots to keep vehicle
+    motion recognizable.
+"/publication/2026-05-ITSC":
+  title: Attention Distribution via Vision Language Models for Interactive Decision-Making
+    and Motion Planning in Autonomous Driving
+  image: "/images/publications/autonomous-systems-illustration.svg"
+  alt: Generic autonomous-driving illustration with cars, sensors, and planned routes.
+  source: Original SVG illustration created for this website; not a paper figure.
+  page: https://henryhcliu.github.io/publication/2026-05-ITSC
+  figure: Generic topical illustration; no paper figure publicly accessible
+  fallback: true
+  notes: Exact-title and phrase searches, author-name searches (Benshan Ma, Haichao
+    Liu, Jun Ma), arXiv/project searches, the author publication entry and Jun Ma
+    publication list checked. No linked paper, DOI, project page, accessible full
+    text or confirmed figure located.
+"/publication/2026-06-EIR":
+  title: Skeleton-Aware Hand-Arm Retargeting for Contact-Rich Dexterous Teleoperation
+  image: "/images/publications/robotics-illustration.svg"
+  alt: Generic robotic manipulation illustration with a sensing-enabled arm and gripper
+    above a cube.
+  source: Original SVG illustration created for this website; not a paper figure.
+  page: https://henryhcliu.github.io/publication/2026-06-EIR
+  figure: Generic topical illustration; no paper figure publicly accessible
+  fallback: true
+  notes: Exact-title, shortened-title, author and arXiv/PDF/project searches checked,
+    together with the author publication entry. Only the author website entry was
+    found; it provides no public full-text, publisher or project link. No figure confirmed
+    for this paper. User explicitly allowed a generic fallback for this title.
+"/publication/2026-06-arXiv":
+  title: 'DexTeleop-0: Force-Aware Bimanual Dexterous Teleoperation with Ego-Centric
+    Perception towards Shared Autonomy'
+  image: "/images/publications/2026-06-arXiv.webp"
+  alt: DexTeleop-0 tactile force balancing stabilizes a dexterous robotic hand grasp.
+  source: https://arxiv.org/html/2606.23431v1/Fig1_tr.png
+  page: https://henryhcliu.github.io/dexteleop-0/
+  figure: Figure 1, before and after tactile balancing
+  fallback: false
+  notes: Exact title and authors verified on arXiv. Checked author project page, hardware
+    and experimental figures, full PDF, and Sharpa research article; selected the
+    tactile-balancing illustration.
+"/publication/2026-07-TVT":
+  title: Behavioral Uncertainty-Aware Attention Allocation via VLMs for Interactive
+    Autonomous Driving
+  image: "/images/publications/autonomous-systems-illustration.svg"
+  alt: Generic autonomous-driving illustration with cars, sensors, and planned routes.
+  source: Original SVG illustration created for this website; not a paper figure.
+  page: https://ieeexplore.ieee.org/abstract/document/11608941/
+  figure: Generic topical illustration; no paper figure publicly accessible
+  fallback: true
+  notes: Exact title, authors and DOI 10.1109/TVT.2026.3713420 confirmed through publisher/index
+    metadata. Checked IEEE abstract/document/stamp endpoints (inaccessible or empty),
+    exact-title arXiv/PDF/project searches, author-name searches, Jun Ma publication
+    list, and ResearchGate record (explicitly no full text available). No publicly
+    accessible confirmed figure located.
+"/publication/2026-08-IJHCS":
+  title: Effects of Environmental Perception and Planned Maneuver Visualization on
+    Takeover Performance in Silent Failure Scenarios
+  image: "/images/publications/2026-08-IJHCS.webp"
+  alt: Driving simulator interface showing detected road users and a planned maneuver
+    overlay during normal operation.
+  source: https://ars.els-cdn.com/content/image/1-s2.0-S1071581926001941-gr4_lrg.jpg
+  page: https://www.sciencedirect.com/science/article/pii/S1071581926001941
+  figure: Figure 4(f), environmental perception plus planned maneuver normal operation
+  fallback: false
+  notes: Exact title, authors and DOI 10.1016/j.ijhcs.2026.103919 verified on publisher
+    page. Publisher PDF was not publicly exposed, but original figure files are accessible
+    from the Elsevier CDN. Examined figures 1–5 and selected the experimental interface,
+    cropped without its caption.
+"/publication/2026-08-US":
+  title: Potential-Game Structured Cooperative Eco-Driving for Mixed Platoons at Signalized
+    Intersections
+  image: "/images/publications/autonomous-systems-illustration.svg"
+  alt: Generic autonomous-driving illustration with cars, sensors, and planned routes.
+  source: Original SVG illustration created for this website; not a paper figure.
+  page: https://www.worldscientific.com/doi/10.1142/S2301385028500604
+  figure: Generic topical illustration; no paper figure publicly accessible
+  fallback: true
+  notes: Exact title and DOI 10.1142/S2301385028500604 confirmed by bibliographic
+    record. Checked World Scientific DOI/abstract/ePDF endpoints (403), exact/shortened-title
+    and author arXiv/PDF/project searches, and Jun Ma publication list. No publicly
+    accessible full text or confirmed paper figure located.
+"/publication/2026-08-arXiv":
+  title: 'Tac4Loco: Learning Spatiotemporal Plantar Pressure Representations for Humanoid
+    Locomotion'
+  image: "/images/publications/2026-08-arXiv.webp"
+  alt: Tac4Loco humanoid robot and plantar pressure maps demonstrate tactile feedback
+    for uneven terrain.
+  source: https://arxiv.org/html/2608.15766v1/Figures/teaser.png
+  page: https://arxiv.org/abs/2608.15766
+  figure: 'Figure 1 teaser: humanoid, plantar sensing and terrain support comparison'
+  fallback: false
+  notes: Exact title and authors verified on arXiv. Checked arXiv HTML, full PDF,
+    and author/project searches; the paper teaser gives the clearest overview at thumbnail
+    size.
+"/publication/2026-09-arXiv":
+  title: 'Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation'
+  image: "/images/publications/2026-09-arXiv.webp"
+  alt: Facet-0 robotic workcell and close-up GPU, RAM, disk and CPU assembly tasks.
+  source: https://arxiv.org/html/2609.01596v1/Teaser1.png
+  page: https://pine-lab-ntu.github.io/facet-0/
+  figure: Figure 1, qualitative overview of precision computer assembly
+  fallback: false
+  notes: Exact title and authors verified on arXiv and the PINE Lab project page.
+    Checked project demonstration posters, arXiv HTML, and full PDF; selected the
+    overview collage.
+"/publication/2026-10-TVT":
+  title: 'OmniScene: Attention-Augmented Multimodal 4D Scene Understanding for Autonomous
+    Driving'
+  image: "/images/publications/2026-10-TVT.webp"
+  alt: OmniScene front-camera visualization detects crossing pedestrians and a bus
+    with 3D bounding boxes.
+  source: https://arxiv.org/html/2509.19973v1/visualize3.jpg
+  page: https://arxiv.org/abs/2509.19973
+  figure: Figure 6, front-camera scene cropped from the multiple-pedestrian emergency-avoidance
+    visualization
+  fallback: false
+  notes: Exact title and authors verified on arXiv. Checked arXiv HTML, full PDF,
+    and project/author searches. Compared overview, intersection-intention visualization
+    (Figure 5), emergency-avoidance visualization (Figure 6), and qualitative comparison
+    (Figure 7); selected the Figure 6 front-camera scene to keep pedestrians, bus
+    and predicted 3D boxes recognizable at thumbnail size. Crop excludes the other
+    camera views and BEV comparison panels.
+"/publication/2026-10-arXiv":
+  title: 'RATE: Risk-Aware Tactile Encoding for Contact-rich Robotic Manipulation'
+  image: "/images/publications/2026-10-arXiv.webp"
+  alt: RATE corrects a robot gripper at critical contact while a baseline proceeds
+    toward failure.
+  source: https://arxiv.org/html/2610.03538v1/fig/head.png
+  page: https://arxiv.org/abs/2610.03538
+  figure: Figure 1(a), representative critical-contact interaction sequence
+  fallback: false
+  notes: Exact title and authors verified on arXiv. Checked HTML figures, full PDF,
+    project/author searches and experiment images; cropped the qualitative comparison
+    to avoid small chart labels.
+"/publication/2026-11-corl":
+  title: 'UniIntervene: Agentic Intervention for Efficient Real-World Reinforcement
+    Learning'
+  image: "/images/publications/2026-11-corl.webp"
+  alt: UniIntervene experimental workspace with a UR7e robot, RGB-D cameras and demonstration
+    objects.
+  source: https://arxiv.org/html/2606.12372v1/real_world.png
+  page: https://denghaoyuan123.github.io/UniIntervene-project/
+  figure: Figure 4, real-world hardware setup
+  fallback: false
+  notes: Exact title and authors verified on arXiv, author project page and official
+    repository. Checked project teaser, tasks, demonstration posters and full PDF;
+    selected the compact annotated experimental workspace photograph.
