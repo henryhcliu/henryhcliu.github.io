@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Haichao Liu 's Homepage"
 title_separator          : "-"
 name                     : &name "Haichao Liu"
-description              : &description "personal description"
+description              : &description "Haichao Liu, Postdoctoral Research Fellow at Nanyang Technological University. Research in Autonomous Systems, robotics, and embodied AI."
 url                      : https://henryhcliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "henryhcliu/henryhcliu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Haichao Liu"
   avatar           : "personal_nyc.jpg"
-  bio              : "Postdoc at NTU, Singapore. Research interests include robot motion planning, autonomous driving, embodied AI, etc."
+  bio              : "Postdoc at NTU, Singapore. Research interests include robot motion planning, Autonomous Systems, embodied AI, etc."
   # location         : "Hong Kong SAR, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

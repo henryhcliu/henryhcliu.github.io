@@ -6,10 +6,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-description: The homepage of Haichao Liu, Postdoctoral Research Fellow at Nanyang Technological University.
+description: The homepage of Haichao Liu, Postdoctoral Research Fellow at Nanyang Technological University, researching Autonomous Systems, robotics, and embodied AI.
 ---
 
-Welcome! I'm **Haichao Liu** (刘海超), a Postdoctoral Research Fellow in the [Perception and embodied INtElligence (PINE) Lab](https://pine-lab-ntu.github.io/) at the School of EEE, [Nanyang Technological University](https://www.ntu.edu.sg/), supervised by Prof. [Ziwei Wang](https://scholar.google.com/citations?user=cMTW09EAAAAJ). My research develops embodied-intelligence and autonomous-driving systems that connect multimodal reasoning with decision-making, motion planning, control, and real-world robotic interaction.
+Welcome! I'm **Haichao Liu** (刘海超), a Postdoctoral Research Fellow in the [Perception and embodied INtElligence (PINE) Lab](https://pine-lab-ntu.github.io/) at the School of EEE, [Nanyang Technological University](https://www.ntu.edu.sg/), supervised by Prof. [Ziwei Wang](https://scholar.google.com/citations?user=cMTW09EAAAAJ). My research focuses on **Autonomous Systems** and embodied intelligence, connecting multimodal reasoning with decision-making, motion planning, control, and real-world robotic interaction.
 
 I contribute to academic leadership and professional service as an area chair, senior reviewer, session chair/co-chair, committee member, and organizer of international robotics challenges. Previously, I was a visiting scholar at the [National University of Singapore](https://www.nus.edu.sg/) under Prof. [Tong Heng Lee](https://scholar.google.com.sg/citations?user=dP8oLwYAAAAJ) and a part-time research scientist with the Autonomous Systems and Robotics Group at [A*STAR](https://www.a-star.edu.sg/) ARTC.
 
@@ -38,9 +38,9 @@ Quick links:
 
 Research Interests
 ======
-My research interests include the areas of **Robotics** and **Autonomous Driving**, with focus on: 
+My research interests include the areas of **Robotics** and **Autonomous Systems**, with focus on:
 * Dexterous Robot Manipulation with Open-vocabulary Commands,
-* Decision-making, Planning and Control for Autonomous Driving,
+* Decision-making, Planning and Control for Autonomous Systems,
 
 with the following technologies:
 * Large Multimodal Language Models,
@@ -56,6 +56,7 @@ Academic and Professional Service
 * **Committee Member:** [AIAAT 2026](https://aiaat.org/) (Kunming, China), [AMLDS 2026](https://amlds.site/) (Osaka, Japan), [AMLDS 2027](https://amlds.site/index.html) (Aizu-Wakamatsu, Japan)
 * **Overall PiC** for [1st Robotic Collaborative (RoCo) Assembling Challenge for Human-Centered Manufacturing](https://rocochallenge.github.io/RoCo2026/) at [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
 * **Organizer** of the [2nd Robotic Collaborative Assembly (RoCo) Challenge](https://rocochallenge.github.io/RoCo-IROS2026/) at IROS 2026 (September 27 - 30, 2026, Pittsburgh, USA)
+* **One of the main contributors and organizers** of the [Singapore Embodied AI Challenge for Manufacturing (SG EAI Challenge)](https://nrp.gov.sg/SGEAIchallenge/)
 * **Other Services:**
   * President of NTU EEE Research Staff Association (RSA)
   * Vice President of HKUST-GSAA
@@ -83,7 +84,7 @@ Publications
   {% endif %}
 {% endfor %}
 {% assign publication_tag_candidates = publication_tag_candidates | uniq | sort %}
-{% assign publication_tag_priority = "robotic manipulation|robot navigation|motion planning and control|autonomous driving" | split: "|" %}
+{% assign publication_tag_priority = "robotic manipulation|robot navigation|motion planning and control|Autonomous Systems" | split: "|" %}
 {% assign ordered_publication_tags = "" | split: "" %}
 {% for priority_tag in publication_tag_priority %}
   {% if publication_tag_candidates contains priority_tag %}
@@ -123,7 +124,7 @@ Publications
     {% assign tagged_publications = site.publications | where_exp: "item", "item.tags contains candidate" %}
     {% if tagged_publications.size > 0 %}
       <section class="publication-category" data-publication-tag="{{ candidate | slugify }}">
-        <h3 id="{{ candidate | slugify }}">{{ candidate | capitalize }}</h3>
+        <h3 id="{{ candidate | slugify }}">{% if candidate == "Autonomous Systems" %}{{ candidate }}{% else %}{{ candidate | capitalize }}{% endif %}</h3>
         <ul>
           {% for post in tagged_publications reversed %}
             {% include archive-single-cv.html show_tags=false %}

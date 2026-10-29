@@ -36,6 +36,7 @@ author_profile: true
   <li><strong>Committee Member:</strong> <a href="https://aiaat.org/">AIAAT 2026</a> (Kunming, China), <a href="https://amlds.site/">AMLDS 2026</a> (Osaka, Japan), <a href="https://amlds.site/index.html">AMLDS 2027</a> (Aizu-Wakamatsu, Japan)</li>
   <li><strong>Overall PiC</strong> for <a href="https://rocochallenge.github.io/RoCo2026/">1st Robotic Collaborative (RoCo) Assembling Challenge for Human-Centered Manufacturing</a> at <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a></li>
   <li><strong>Organizer</strong> of the <a href="https://rocochallenge.github.io/RoCo-IROS2026/">2nd Robotic Collaborative Assembly (RoCo) Challenge</a> at IROS 2026 (September 27 - 30, 2026, Pittsburgh, USA)</li>
+  <li><strong>One of the main contributors and organizers</strong> of the <a href="https://nrp.gov.sg/SGEAIchallenge/">Singapore Embodied AI Challenge for Manufacturing (SG EAI Challenge)</a></li>
 </ul>
 
 <h2>Social Services</h2>
@@ -44,7 +45,9 @@ author_profile: true
   <li>Vice President of HKUST-GSAA (2024-2025)</li>
 </ul>
 
+{% if site.teaching.size > 0 %}
 <h2>Educational Services</h2>
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+{% endif %}

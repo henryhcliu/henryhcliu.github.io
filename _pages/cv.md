@@ -20,7 +20,7 @@ Education
 
 - Visiting Scholar, **National University of Singapore**, 2025
 
-- M.E. in Mechanical Engineering, **Harbin Institute of Technology**, 2020-2022
+- M.E. from the State Key Laboratory of Robotics and Systems, **Harbin Institute of Technology**, 2020-2022
 
 - Visiting Student, **University of Sydney**, 2021
 
@@ -28,7 +28,7 @@ Education
 
 Research Interests
 ======
-- Robotic Manipulation, Motion Planning and Control, Autonomous Driving, Reinforcement Learning, Imitation Learning, Optimization, etc.
+- Robotic Manipulation, Motion Planning and Control, Autonomous Systems, Reinforcement Learning, Imitation Learning, Optimization, etc.
 
 Internship (Part-Time) Experience
 ======
@@ -62,11 +62,15 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
+{% if site.teaching.size > 0 %}
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html show_tags=false %}
   {% endfor %}</ul>
+
+{% endif %}
   
 Service and leadership
 ======
@@ -77,4 +81,5 @@ Service and leadership
 * **Committee Member:** AIAAT 2026, AMLDS 2026, AMLDS 2027
 * **Overall PiC** for [1st Robotic Collaborative (RoCo) Assembling Challenge for Human-Centered Manufacturing](https://rocochallenge.github.io/RoCo2026/) at [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
 * **Organizer** of the [2nd Robotic Collaborative Assembly (RoCo) Challenge](https://rocochallenge.github.io/RoCo-IROS2026/) at IROS 2026 (September 27 - 30, 2026, Pittsburgh, USA)
+* **One of the main contributors and organizers** of the [Singapore Embodied AI Challenge for Manufacturing (SG EAI Challenge)](https://nrp.gov.sg/SGEAIchallenge/)
 * **Other Services:** President of NTU EEE Research Staff Association (RSA) (2025-), Vice President of HKUST-GSAA (2024-2025)

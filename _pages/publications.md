@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign publication_tag_candidates = "robotic manipulation|robot navigation|motion planning and control|autonomous driving" | split: "|" %}
+{% assign publication_tag_candidates = "robotic manipulation|robot navigation|motion planning and control|Autonomous Systems" | split: "|" %}
 
 <div class="publication-tabs" role="tablist" aria-label="Publication categories">
   <button class="publication-tabs__tab is-active" type="button" role="tab" aria-selected="true" data-publication-tag="all">All Papers</button>
@@ -37,7 +37,7 @@ author_profile: true
     {% assign tagged_publications = site.publications | where_exp: "item", "item.tags contains candidate" %}
     {% if tagged_publications.size > 0 %}
       <section class="publication-category" data-publication-tag="{{ candidate | slugify }}">
-        <h2 id="{{ candidate | slugify }}" class="archive__subtitle">{{ candidate | capitalize }}</h2>
+        <h2 id="{{ candidate | slugify }}" class="archive__subtitle">{% if candidate == "Autonomous Systems" %}{{ candidate }}{% else %}{{ candidate | capitalize }}{% endif %}</h2>
         {% for post in tagged_publications reversed %}
           {% include archive-single.html%}
         {% endfor %}
